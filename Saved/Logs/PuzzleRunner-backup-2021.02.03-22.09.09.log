@@ -1,0 +1,1089 @@
+﻿Log file open, 02/03/21 13:13:09
+LogInit: Display: Running engine for game: PuzzleRunner
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.139990
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Program Files/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.02.03-21.13.10:125][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.02.03-21.13.10:125][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.02.03-21.13.10:125][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Config/Windows/Engine.ini]
+[2021.02.03-21.13.10:125][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.02.03-21.13.10:125][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:1]]
+[2021.02.03-21.13.10:125][  0]LogConfig: Setting CVar [[r.RayTracing:1]]
+[2021.02.03-21.13.10:125][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Config/Windows/Engine.ini]
+[2021.02.03-21.13.10:125][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Config/Windows/Engine.ini]
+[2021.02.03-21.13.10:126][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.02.03-21.13.10:126][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.02.03-21.13.10:126][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.02.03-21.13.10:126][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.02.03-21.13.10:126][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.02.03-21.13.10:126][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.02.03-21.13.10:126][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.02.03-21.13.10:126][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.02.03-21.13.10:126][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.02.03-21.13.10:126][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.02.03-21.13.10:126][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.02.03-21.13.10:126][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.02.03-21.13.10:126][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.02.03-21.13.10:126][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.02.03-21.13.10:126][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Config/Windows/Engine.ini]
+[2021.02.03-21.13.10:126][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.02.03-21.13.10:126][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.02.03-21.13.10:126][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.02.03-21.13.10:126][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.02.03-21.13.10:126][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.02.03-21.13.10:126][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.02.03-21.13.10:126][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.02.03-21.13.10:126][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.02.03-21.13.10:126][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.02.03-21.13.10:126][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.02.03-21.13.10:126][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.02.03-21.13.10:126][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.02.03-21.13.10:126][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.02.03-21.13.10:126][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Config/Windows/Engine.ini]
+[2021.02.03-21.13.10:126][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Config/Windows/Engine.ini]
+[2021.02.03-21.13.10:128][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Config/Windows/Scalability.ini]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Config/Windows/Scalability.ini]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Config/Windows/Scalability.ini]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Config/Windows/Scalability.ini]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.03-21.13.10:128][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Config/Windows/Scalability.ini]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Config/Windows/Scalability.ini]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Config/Windows/Scalability.ini]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Config/Windows/Scalability.ini]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.02.03-21.13.10:129][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.03-21.13.10:129][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.02.03-21.13.10:129][  0]LogHAL: Display: Platform has ~ 32 GB [34298953728 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.02.03-21.13.10:129][  0]LogInit: Going up to parent DeviceProfile []
+[2021.02.03-21.13.10:129][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Config/Windows/Scalability.ini]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Config/Windows/Scalability.ini]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Config/Windows/Scalability.ini]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Config/Windows/Scalability.ini]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.03-21.13.10:129][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Config/Windows/Scalability.ini]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Config/Windows/Scalability.ini]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Config/Windows/Scalability.ini]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Config/Windows/Scalability.ini]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.02.03-21.13.10:130][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Config/Windows/Engine.ini]
+[2021.02.03-21.13.10:130][  0]LogInit: Computer: ESPORTS-09
+[2021.02.03-21.13.10:130][  0]LogInit: User: HPUPlayer9
+[2021.02.03-21.13.10:130][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.02.03-21.13.10:130][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.02.03-21.13.10:130][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.02.03-21.13.10:130][  0]LogMemory: Platform Memory Stats for Windows
+[2021.02.03-21.13.10:130][  0]LogMemory: Process Physical Memory: 116.01 MB used, 116.01 MB peak
+[2021.02.03-21.13.10:130][  0]LogMemory: Process Virtual Memory: 106.29 MB used, 106.29 MB peak
+[2021.02.03-21.13.10:130][  0]LogMemory: Physical Memory: 8104.18 MB used,  24605.86 MB free, 32710.03 MB total
+[2021.02.03-21.13.10:130][  0]LogMemory: Virtual Memory: 5193.15 MB used,  134212536.00 MB free, 134217728.00 MB total
+[2021.02.03-21.13.10:134][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.02.03-21.13.10:165][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.02.03-21.13.10:165][  0]LogInit: Using OS detected language (en-US).
+[2021.02.03-21.13.10:165][  0]LogInit: Using OS detected locale (en-US).
+[2021.02.03-21.13.10:166][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.02.03-21.13.10:287][  0]LogInit: Setting process to per monitor DPI aware
+[2021.02.03-21.13.10:312][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.02.03-21.13.10:312][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.02.03-21.13.10:454][  0]LogD3D12RHI: Aftermath initialized
+[2021.02.03-21.13.10:454][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2021.02.03-21.13.10:481][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.02.03-21.13.10:603][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2080 (Max supported Feature Level 12_1)
+[2021.02.03-21.13.10:603][  0]LogD3D12RHI: Adapter has 8010MB of dedicated video memory, 0MB of dedicated system memory, and 16355MB of shared system memory, 1 output[s]
+[2021.02.03-21.13.10:611][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1)
+[2021.02.03-21.13.10:611][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16355MB of shared system memory, 0 output[s]
+[2021.02.03-21.13.10:611][  0]LogD3D12RHI: Forcing D3D12.AsyncDeferredDeletion=0 as a workaround for a deadlock.
+[2021.02.03-21.13.10:611][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2021.02.03-21.13.10:616][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2021.02.03-21.13.10:664][  0]LogD3D12RHI: D3D12 ray tracing enabled.
+[2021.02.03-21.13.10:664][  0]LogD3D12RHI: The system supports ID3D12Device1.
+[2021.02.03-21.13.10:664][  0]LogD3D12RHI: The system supports ID3D12Device2.
+[2021.02.03-21.13.10:731][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2021.02.03-21.13.10:736][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2021.02.03-21.13.10:746][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2021.02.03-21.13.10:756][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2021.02.03-21.13.10:756][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2021.02.03-21.13.10:757][  0]LogD3D12RHI:     GPU DeviceId: 0x1e82 (for the marketing name, search the web for "GPU Device Id")
+[2021.02.03-21.13.10:757][  0]LogWindows: EnumDisplayDevices:
+[2021.02.03-21.13.10:757][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2021.02.03-21.13.10:757][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2021.02.03-21.13.10:757][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2021.02.03-21.13.10:757][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2021.02.03-21.13.10:758][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.02.03-21.13.10:758][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2021.02.03-21.13.10:758][  0]LogD3D12RHI:   Driver Version: 456.79 (internal:27.21.14.5679, unified:456.79)
+[2021.02.03-21.13.10:758][  0]LogD3D12RHI:      Driver Date: 10-8-2020
+[2021.02.03-21.13.10:758][  0]LogRHI: Texture pool is 4289 MB (70% of 6127 MB)
+[2021.02.03-21.13.10:758][  0]LogD3D12RHI: Async texture creation enabled
+[2021.02.03-21.13.10:758][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2021.02.03-21.13.10:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.02.03-21.13.10:985][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.02.03-21.13.10:985][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.02.03-21.13.10:985][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.02.03-21.13.10:985][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.02.03-21.13.10:985][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.02.03-21.13.10:985][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.02.03-21.13.10:985][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.02.03-21.13.10:985][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.02.03-21.13.10:985][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.02.03-21.13.10:985][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.02.03-21.13.10:999][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.02.03-21.13.10:999][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.02.03-21.13.11:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.02.03-21.13.11:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.02.03-21.13.11:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.02.03-21.13.11:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.02.03-21.13.11:029][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.02.03-21.13.11:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.02.03-21.13.11:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.02.03-21.13.11:058][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.02.03-21.13.11:058][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.02.03-21.13.11:068][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.02.03-21.13.11:068][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.02.03-21.13.11:074][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.02.03-21.13.11:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.02.03-21.13.11:086][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.02.03-21.13.11:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.02.03-21.13.11:092][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.02.03-21.13.11:096][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.02.03-21.13.11:127][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Intermediate/Shaders/WorkingDirectory/7684/).
+[2021.02.03-21.13.11:128][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/HPU Player 9/AppData/Local/Temp/UnrealShaderWorkingDir/60B391214582DE3E9017D2BB4FB59E60/'.
+[2021.02.03-21.13.11:128][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.02.03-21.13.11:128][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.02.03-21.13.11:128][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.02.03-21.13.11:694][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.02.03-21.13.11:743][  0]LogDerivedDataCache: Loaded boot cache 0.05s 124MB C:/Users/HPU Player 9/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.02.03-21.13.11:743][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/HPU Player 9/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.02.03-21.13.11:743][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.02.03-21.13.11:743][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.02.03-21.13.11:743][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.03-21.13.11:743][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.02.03-21.13.11:751][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.02.03-21.13.11:751][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.03-21.13.11:751][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.02.03-21.13.11:752][  0]LogDerivedDataCache: Using Local data cache path C:/Users/HPU Player 9/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.02.03-21.13.11:752][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.02.03-21.13.11:752][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.02.03-21.13.11:986][  0]LogSlate: Using FreeType 2.10.0
+[2021.02.03-21.13.11:986][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.02.03-21.13.12:005][  0]LogAssetRegistry: FAssetRegistry took 0.0018 seconds to start up
+[2021.02.03-21.13.12:178][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.03-21.13.12:289][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.02.03-21.13.12:289][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.02.03-21.13.12:289][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.02.03-21.13.12:289][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.02.03-21.13.12:289][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.02.03-21.13.13:086][  0]LogNetVersion: PuzzleRunner 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2511682933)
+[2021.02.03-21.13.13:518][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000002015AB06440), frame # 0
+[2021.02.03-21.13.13:518][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002015A98D940), frame # 0
+[2021.02.03-21.13.13:519][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002015A9D5E00), frame # 0
+[2021.02.03-21.13.13:562][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.038426 seconds
+[2021.02.03-21.13.13:566][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.02.03-21.13.13:566][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.02.03-21.13.13:566][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.02.03-21.13.13:747][  0]LogD3D12RHI: Creating RTPSO with 3 shaders (0 cached, 3 new) took 115.75 ms. Compile time 9.72 ms, link time 106.01 ms.
+[2021.02.03-21.13.14:017][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.02.03-21.13.14:020][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.02.03-21.13.14:073][  0]SourceControl: Source control is disabled
+[2021.02.03-21.13.14:073][  0]SourceControl: Source control is disabled
+[2021.02.03-21.13.14:075][  0]SourceControl: Source control is disabled
+[2021.02.03-21.13.14:076][  0]SourceControl: Source control is disabled
+[2021.02.03-21.13.14:080][  0]SourceControl: Source control is disabled
+[2021.02.03-21.13.14:088][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.02.03-21.13.14:089][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.02.03-21.13.14:233][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.02.03-21.13.14:245][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.03-21.13.14:245][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.03-21.13.14:296][  0]LogOcInput: OculusInput pre-init called
+[2021.02.03-21.13.14:303][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.02.03-21.13.14:303][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.02.03-21.13.14:359][  0]LogEngine: Initializing Engine...
+[2021.02.03-21.13.14:360][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.02.03-21.13.14:360][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.02.03-21.13.14:361][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.02.03-21.13.14:629][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.02.03-21.13.14:635][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.02.03-21.13.14:635][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000201692CBC00), frame # 0
+[2021.02.03-21.13.14:635][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000201693160C0), frame # 0
+[2021.02.03-21.13.14:641][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-21.13.14:641][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-21.13.14:641][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-21.13.14:641][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-21.13.14:641][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-21.13.14:641][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-21.13.14:641][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-21.13.14:641][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-21.13.14:642][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-21.13.14:642][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-21.13.14:649][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-21.13.14:649][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-21.13.14:667][  0]LogAudioMixer: Display: Using Audio Device LEN Y27gq-25 (2- NVIDIA High Definition Audio)
+[2021.02.03-21.13.14:669][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-21.13.14:670][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-21.13.14:670][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-21.13.14:671][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-21.13.14:674][  0]LogInit: FAudioDevice initialized.
+[2021.02.03-21.13.14:674][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.02.03-21.13.14:726][  0]LogDerivedDataCache: Saved boot cache 0.05s 124MB C:/Users/HPU Player 9/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.02.03-21.13.14:733][  0]LogInit: Texture streaming: Enabled
+[2021.02.03-21.13.14:742][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.02.03-21.13.14:742][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.02.03-21.13.14:745][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.02.03-21.13.14:787][  0]LogInit: Transaction tracking system initialized
+[2021.02.03-21.13.14:799][  0]BlueprintLog: New page: Editor Load
+[2021.02.03-21.13.14:837][  0]LocalizationService: Localization service is disabled
+[2021.02.03-21.13.14:884][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.02.03-21.13.14:885][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.02.03-21.13.15:002][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.02.03-21.13.15:002][  0]LogCook: Display: Mobile HDR setting 1
+[2021.02.03-21.13.15:077][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/' took 0.01s
+[2021.02.03-21.13.15:226][  0]SourceControl: Source control is disabled
+[2021.02.03-21.13.15:226][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.893
+[2021.02.03-21.13.15:226][  0]Cmd: MAP LOAD FILE="C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.03-21.13.15:226][  0]LogEditorServer: Warning: Can't find file 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.02.03-21.13.15:226][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.03-21.13.15:227][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2021.02.03-21.13.15:227][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.000
+[2021.02.03-21.13.15:228][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.894
+[2021.02.03-21.13.15:314][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-21.13.15:319][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-21.13.15:325][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-21.13.15:330][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-21.13.15:334][  0]LogCollectionManager: Loaded 0 collections in 0.000714 seconds
+[2021.02.03-21.13.15:343][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Collections/' took 0.00s
+[2021.02.03-21.13.15:343][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/Developers/HPUPlayer9/Collections/' took 0.00s
+[2021.02.03-21.13.15:343][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/Collections/' took 0.00s
+[2021.02.03-21.13.15:343][  0]LogContentBrowser: Native class hierarchy populated in 0.0064 seconds. Added 3427 classes and 821 folders.
+[2021.02.03-21.13.15:345][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.03-21.13.15:373][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.03-21.13.15:373][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.02.03-21.13.15:488][  0]LogSlate: Took 0.000078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.02.03-21.13.15:489][  0]LogSlate: Took 0.000084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.02.03-21.13.15:491][  0]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.02.03-21.13.15:556][  0]LogRenderer: Reallocating scene render targets to support 1616x864 Format 10 NumSamples 1 (Frame:1).
+[2021.02.03-21.13.15:718][  0]LogD3D12RHI: Creating RTPSO with 131 shaders (0 cached, 131 new) took 131.48 ms. Compile time 119.85 ms, link time 11.46 ms.
+[2021.02.03-21.13.15:786][  0]LogD3D12RHI: Creating RTPSO with 3 shaders (3 cached, 0 new) took 34.64 ms. Compile time 0.05 ms, link time 34.58 ms.
+[2021.02.03-21.13.15:838][  0]LogD3D12RHI: Creating RTPSO with 3 shaders (0 cached, 3 new) took 11.01 ms. Compile time 3.47 ms, link time 7.52 ms.
+[2021.02.03-21.13.15:974][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.03-21.13.15:974][  0]LogLoad: (Engine Initialization) Total time: 6.64 seconds
+[2021.02.03-21.13.15:974][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.02.03-21.13.15:994][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.02.03-21.13.32:465][972]LogAssetRegistry: Asset discovery search completed in 20.4601 seconds
+[2021.02.03-21.13.32:469][972]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.02.03-21.13.39:990][869]LogSlate: Took 0.000091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.03-21.13.42:214][869]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MedievalDungeon/Maps/Demonstration.Demonstration
+[2021.02.03-21.13.42:239][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.02.03-21.13.42:240][869]Cmd: MAP LOAD FILE="C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/MedievalDungeon/Maps/Demonstration.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.03-21.13.42:240][869]LightingResults: New page: Lighting Build
+[2021.02.03-21.13.42:241][869]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 6 classes and 0 folders.
+[2021.02.03-21.13.42:241][869]LoadErrors: New page: Loading map: Demonstration.umap
+[2021.02.03-21.13.42:263][869]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-21.13.42:263][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-21.13.42:263][869]MapCheck: New page: Map Check
+[2021.02.03-21.13.42:263][869]LightingResults: New page: Lighting Build
+[2021.02.03-21.13.42:272][869]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000201692CBC00), frame # 2869
+[2021.02.03-21.13.42:272][869]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000201693160C0), frame # 2869
+[2021.02.03-21.13.42:273][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.02.03-21.13.42:399][869]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.03-21.13.42:399][869]LogAIModule: Creating AISystem for world Demonstration
+[2021.02.03-21.13.42:400][869]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002017550F400), frame # 2869
+[2021.02.03-21.13.42:400][869]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000201B542D440), frame # 2869
+[2021.02.03-21.13.42:419][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.02.03-21.13.42:439][869]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.03-21.13.42:440][869]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.185ms to complete.
+[2021.02.03-21.13.42:440][869]LogFileHelpers: Loading map 'Demonstration' took 0.200
+[2021.02.03-21.13.42:518][870]LogD3D12RHI: Creating RTPSO with 142 shaders (132 cached, 10 new) took 13.72 ms. Compile time 8.78 ms, link time 4.80 ms.
+[2021.02.03-21.13.42:728][870]LogD3D12RHI: Creating RTPSO with 144 shaders (142 cached, 2 new) took 24.83 ms. Compile time 12.58 ms, link time 11.99 ms.
+[2021.02.03-21.13.49:835][353]LogEditorViewport: Clicking on Actor (LMB): Hallway_C (Hallway)
+[2021.02.03-21.13.54:684][628]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LenhartChris/Blueprints/Hallway.Hallway
+[2021.02.03-21.13.54:809][628]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 125 classes and 0 folders.
+[2021.02.03-21.13.55:460][628]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.02.03-21.13.56:743][687]LogRenderer: Reallocating scene render targets to support 1616x876 Format 10 NumSamples 1 (Frame:1).
+[2021.02.03-21.14.02:074][917]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.03-21.14.23:827][813]LogEditorViewport: Clicking on Actor (LMB): Hallway_C (Hallway)
+[2021.02.03-21.14.30:272][ 77]LogEditorViewport: Clicking on Actor (LMB): Hallway_C (Hallway)
+[2021.02.03-21.14.31:326][122]LogEditorViewport: Clicking on Actor (LMB): Hallway_C (Hallway)
+[2021.02.03-21.14.37:785][508]LogEditorViewport: Clicking on Actor (LMB): BP_Dungeon_Doorway_C (Doorway_Large)
+[2021.02.03-21.14.38:685][558]LogEditorViewport: Clicking on Actor (LMB): BP_Dungeon_Doorway_C (Doorway_Large)
+[2021.02.03-21.14.39:969][637]LogEditorViewport: Clicking on Actor (LMB): BP_Dungeon_Doorway_C (Doorway_Large)
+[2021.02.03-21.14.41:029][688]LogEditorViewport: Clicking on Actor (LMB): BP_Dungeon_Doorway_C (Doorway_Large)
+[2021.02.03-21.14.42:917][791]LogEditorViewport: Clicking on Actor (LMB): BP_Dungeon_Doorway_C (Doorway_Large)
+[2021.02.03-21.14.43:256][804]LogEditorViewport: Clicking on Actor (LMB): BP_Dungeon_Doorway_C (Doorway_Large)
+[2021.02.03-21.14.45:228][892]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Test56)
+[2021.02.03-21.14.46:538][952]LogEditorViewport: Clicking on Actor (LMB): BP_Dungeon_Doorway_C (Doorway_Large4)
+[2021.02.03-21.14.47:796][  6]LogEditorViewport: Clicking on Actor (LMB): BP_Dungeon_Doorway_C (Doorway_Large4)
+[2021.02.03-21.14.52:696][272]LogEditorViewport: Clicking on Actor (LMB): BP_Dungeon_Doorway_C (Doorway_Large)
+[2021.02.03-21.14.53:976][351]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MedievalDungeon/Blueprints/BP_Dungeon_Doorway.BP_Dungeon_Doorway
+[2021.02.03-21.15.26:323][656]LogEditorViewport: Clicking on Actor (LMB): Hallway_C (Hallway)
+[2021.02.03-21.15.45:075][658]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Wall)
+[2021.02.03-21.15.54:050][178]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Floor)
+[2021.02.03-21.15.55:013][230]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Wall2)
+[2021.02.03-21.17.11:689][110]LogEditorViewport: Clicking on Actor (LMB): Hallway_C (Hallway)
+[2021.02.03-21.17.13:207][182]Cmd: DELETE
+[2021.02.03-21.17.13:207][182]Cmd: ACTOR DELETE
+[2021.02.03-21.17.13:225][182]LogEditorActor: Deleted Actor: Hallway_C
+[2021.02.03-21.17.13:263][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.02.03-21.17.13:266][182]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2021.02.03-21.17.13:815][203]LogEditorViewport: Clicking on Actor (LMB): Hallway_C (Hallway2)
+[2021.02.03-21.17.19:756][483]Cmd: TRANSACTION UNDO
+[2021.02.03-21.17.19:756][483]LogEditorTransaction: Undo Move Components
+[2021.02.03-21.17.20:087][494]Cmd: TRANSACTION UNDO
+[2021.02.03-21.17.20:087][494]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2021.02.03-21.17.20:486][512]Cmd: TRANSACTION UNDO
+[2021.02.03-21.17.20:486][512]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.03-21.17.20:834][529]Cmd: TRANSACTION UNDO
+[2021.02.03-21.17.20:834][529]LogEditorTransaction: Undo Delete Actors
+[2021.02.03-21.17.21:177][544]Cmd: TRANSACTION UNDO
+[2021.02.03-21.17.21:177][544]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.03-21.17.21:528][559]Cmd: TRANSACTION UNDO
+[2021.02.03-21.17.21:528][559]LogEditorTransaction: Undo Move Components
+[2021.02.03-21.18.07:308][772]LogEditorViewport: Clicking on Actor (LMB): Hallway_C (Hallway)
+[2021.02.03-21.18.09:559][876]Cmd: DELETE
+[2021.02.03-21.18.09:559][876]Cmd: ACTOR DELETE
+[2021.02.03-21.18.09:574][876]LogEditorActor: Deleted Actor: Hallway_C
+[2021.02.03-21.18.09:594][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.02.03-21.18.09:596][876]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2021.02.03-21.18.15:705][180]LogEditorViewport: Clicking on Actor (LMB): Hallway_C (Hallway2)
+[2021.02.03-21.20.47:720][777]LogEditorViewport: Clicking on Actor (LMB): Hallway_C (Hallway2)
+[2021.02.03-21.20.48:374][812]Cmd: DELETE
+[2021.02.03-21.20.48:374][812]Cmd: ACTOR DELETE
+[2021.02.03-21.20.48:389][812]LogEditorActor: Deleted Actor: Hallway_C
+[2021.02.03-21.20.48:418][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.02.03-21.20.48:419][812]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2021.02.03-21.20.48:859][840]LogEditorViewport: Clicking on Actor (LMB): Hallway_C (Hallway)
+[2021.02.03-21.21.32:638][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.02.03-21.21.46:003][245]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LenhartChris/Blueprints/HallwayDouble.HallwayDouble
+[2021.02.03-21.23.17:192][170]LogEditorTransaction: Undo Remove Components
+[2021.02.03-21.25.38:540][973]LogEditorTransaction: Undo Remove Components
+[2021.02.03-21.25.51:863][802]LogEditorTransaction: Undo Make New Scene Root
+[2021.02.03-21.27.11:569][566]BlueprintLog: New page: Compile HallwayDouble
+[2021.02.03-21.27.12:716][566]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2021.02.03-21.28.40:083][113]BlueprintLog: New page: Compile HallwayDouble
+[2021.02.03-21.28.40:234][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.02.03-21.29.00:286][782]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LenhartChris/Maps/TestingMap.TestingMap
+[2021.02.03-21.29.00:310][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.02.03-21.29.01:290][782]LogSlate: Window 'Save Content' being destroyed
+[2021.02.03-21.29.01:315][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LenhartChris/Blueprints/Hallway" FILE="C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/LenhartChris/Blueprints/Hallway.uasset" SILENT=true
+[2021.02.03-21.29.01:336][782]LogSavePackage: Moving 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Hallway90C2B82E4528EC4545B973A33DBB8B8C.tmp' to 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/LenhartChris/Blueprints/Hallway.uasset'
+[2021.02.03-21.29.01:348][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LenhartChris/Blueprints/HallwayDouble" FILE="C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/LenhartChris/Blueprints/HallwayDouble.uasset" SILENT=true
+[2021.02.03-21.29.01:368][782]LogSavePackage: Moving 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/HallwayDouble8D917B2E41F7F8C8C2E8E0A807BA37A0.tmp' to 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/LenhartChris/Blueprints/HallwayDouble.uasset'
+[2021.02.03-21.29.01:393][782]LogSavePackage: Moving 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/BP_Dungeon_Doorway087DF9244490580FF43C6CB6135CF02B.tmp' to 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/MedievalDungeon/Blueprints/BP_Dungeon_Doorway.uasset'
+[2021.02.03-21.29.01:417][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.02.03-21.29.01:745][782]LogSavePackage: Moving 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/DemonstrationA42CBA7A41525F869BD81EB79433448C.tmp' to 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/MedievalDungeon/Maps/Demonstration.umap'
+[2021.02.03-21.29.01:774][782]LogFileHelpers: Saving map 'Demonstration' took 0.379
+[2021.02.03-21.29.01:788][782]LogSavePackage: Moving 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Demonstration_BuiltData72C95246404177FF66ABA088EA9152A4.tmp' to 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/MedievalDungeon/Maps/Demonstration_BuiltData.uasset'
+[2021.02.03-21.29.01:789][782]Cmd: MAP LOAD FILE="C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/LenhartChris/Maps/TestingMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.03-21.29.01:789][782]LightingResults: New page: Lighting Build
+[2021.02.03-21.29.01:789][782]LoadErrors: New page: Loading map: TestingMap.umap
+[2021.02.03-21.29.01:799][782]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-21.29.01:799][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-21.29.01:800][782]MapCheck: New page: Map Check
+[2021.02.03-21.29.01:800][782]LightingResults: New page: Lighting Build
+[2021.02.03-21.29.01:829][782]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000201B542D440), frame # 45782
+[2021.02.03-21.29.01:830][782]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002017550F400), frame # 45782
+[2021.02.03-21.29.01:833][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.02.03-21.29.01:837][782]LogPhysics: Warning: Scale for /Game/LenhartChris/Maps/TestingMap.TestingMap:PersistentLevel.Cube2.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.02.03-21.29.01:840][782]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.03-21.29.01:840][782]LogAIModule: Creating AISystem for world TestingMap
+[2021.02.03-21.29.01:840][782]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000201B55BC200), frame # 45782
+[2021.02.03-21.29.01:840][782]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000201D2AE3740), frame # 45782
+[2021.02.03-21.29.01:860][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.02.03-21.29.01:881][782]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.03-21.29.01:881][782]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.089ms to complete.
+[2021.02.03-21.29.01:881][782]LogFileHelpers: Loading map 'TestingMap' took 0.092
+[2021.02.03-21.29.01:930][782]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.03-21.29.01:930][782]LogContentValidation: Display: Validating Blueprint /Game/LenhartChris/Blueprints/Hallway.Hallway
+[2021.02.03-21.29.01:930][782]LogContentValidation: Display: Validating Blueprint /Game/LenhartChris/Blueprints/HallwayDouble.HallwayDouble
+[2021.02.03-21.29.01:930][782]LogContentValidation: Display: Validating Blueprint /Game/MedievalDungeon/Blueprints/BP_Dungeon_Doorway.BP_Dungeon_Doorway
+[2021.02.03-21.29.01:930][782]LogContentValidation: Display: Validating World /Game/MedievalDungeon/Maps/Demonstration.Demonstration
+[2021.02.03-21.29.02:116][782]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MedievalDungeon/Maps/Demonstration_BuiltData.Demonstration_BuiltData
+[2021.02.03-21.29.04:755][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dungeon Floor)
+[2021.02.03-21.29.06:732][ 91]Cmd: DELETE
+[2021.02.03-21.29.06:732][ 91]Cmd: ACTOR DELETE
+[2021.02.03-21.29.06:735][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.03-21.29.06:761][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.02.03-21.29.06:764][ 91]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.02.03-21.29.07:047][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Half_Arch)
+[2021.02.03-21.29.07:189][128]Cmd: DELETE
+[2021.02.03-21.29.07:189][128]Cmd: ACTOR DELETE
+[2021.02.03-21.29.07:190][128]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.03-21.29.07:209][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.02.03-21.29.07:211][128]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2021.02.03-21.29.07:712][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pillar)
+[2021.02.03-21.29.07:853][185]Cmd: DELETE
+[2021.02.03-21.29.07:854][185]Cmd: ACTOR DELETE
+[2021.02.03-21.29.07:855][185]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.03-21.29.07:873][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.02.03-21.29.07:875][185]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2021.02.03-21.29.08:119][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2021.02.03-21.29.08:211][213]Cmd: DELETE
+[2021.02.03-21.29.08:211][213]Cmd: ACTOR DELETE
+[2021.02.03-21.29.08:212][213]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.03-21.29.08:229][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.02.03-21.29.08:230][213]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2021.02.03-21.29.10:720][419]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall)
+[2021.02.03-21.29.11:187][448]Cmd: DELETE
+[2021.02.03-21.29.11:187][448]Cmd: ACTOR DELETE
+[2021.02.03-21.29.11:188][448]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.03-21.29.11:207][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.02.03-21.29.11:210][448]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2021.02.03-21.29.11:892][512]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2021.02.03-21.29.12:046][524]Cmd: DELETE
+[2021.02.03-21.29.12:046][524]Cmd: ACTOR DELETE
+[2021.02.03-21.29.12:047][524]LogEditorActor: Deleted Actor: LightmassImportanceVolume
+[2021.02.03-21.29.12:065][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.02.03-21.29.12:067][524]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2021.02.03-21.29.13:320][641]Cmd: TRANSACTION UNDO
+[2021.02.03-21.29.13:320][641]LogEditorTransaction: Undo Delete Actors
+[2021.02.03-21.29.13:835][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2021.02.03-21.29.14:585][734]Cmd: DELETE
+[2021.02.03-21.29.14:585][734]Cmd: ACTOR DELETE
+[2021.02.03-21.29.14:586][734]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.03-21.29.14:604][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.02.03-21.29.14:607][734]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2021.02.03-21.29.19:448][167]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.02.03-21.29.19:986][214]Cmd: DELETE
+[2021.02.03-21.29.19:986][214]Cmd: ACTOR DELETE
+[2021.02.03-21.29.19:987][214]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.03-21.29.20:005][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.02.03-21.29.20:008][214]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2021.02.03-21.30.02:516][366]LogEditorViewport: Clicking on Actor (LMB): Hallway_C (Hallway)
+[2021.02.03-21.30.44:136][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.02.03-21.30.46:624][ 90]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LenhartChris/Blueprints/CorerWall.CorerWall
+[2021.02.03-21.30.54:350][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.02.03-21.30.54:374][871]LogMetaData: Removing '/Game/LenhartChris/Blueprints/CornerWal.SKEL_CornerWal_C' ref from Metadata '/Game/LenhartChris/Blueprints/CorerWall.PackageMetaData'
+[2021.02.03-21.30.54:374][871]LogMetaData: Removing '/Game/LenhartChris/Blueprints/CornerWal.CornerWal_C' ref from Metadata '/Game/LenhartChris/Blueprints/CorerWall.PackageMetaData'
+[2021.02.03-21.30.54:441][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LenhartChris/Blueprints/CornerWal" FILE="C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/LenhartChris/Blueprints/CornerWal.uasset" SILENT=true
+[2021.02.03-21.30.54:457][871]LogSavePackage: Moving 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/CornerWalBDDB802E4F18B8DFD68BCF9E3114343F.tmp' to 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/LenhartChris/Blueprints/CornerWal.uasset'
+[2021.02.03-21.30.54:624][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.02.03-21.30.54:651][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.02.03-21.30.54:671][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.02.03-21.30.54:725][871]AssetCheck: New page: Asset Save: CornerWal
+[2021.02.03-21.30.54:725][871]LogContentValidation: Display: Validating Blueprint /Game/LenhartChris/Blueprints/CornerWal.CornerWal
+[2021.02.03-21.30.58:982][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.02.03-21.30.59:004][305]LogMetaData: Removing '/Game/LenhartChris/Blueprints/CornerWall.CornerWall_C' ref from Metadata '/Game/LenhartChris/Blueprints/CornerWal.PackageMetaData'
+[2021.02.03-21.30.59:004][305]LogMetaData: Removing '/Game/LenhartChris/Blueprints/CornerWall.SKEL_CornerWall_C' ref from Metadata '/Game/LenhartChris/Blueprints/CornerWal.PackageMetaData'
+[2021.02.03-21.30.59:040][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LenhartChris/Blueprints/CornerWall" FILE="C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/LenhartChris/Blueprints/CornerWall.uasset" SILENT=true
+[2021.02.03-21.30.59:056][305]LogSavePackage: Moving 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/CornerWallDDB4980A49A3CDD5457D7BBF8F9CC357.tmp' to 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/LenhartChris/Blueprints/CornerWall.uasset'
+[2021.02.03-21.30.59:197][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.02.03-21.30.59:222][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.02.03-21.30.59:242][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.02.03-21.30.59:279][305]AssetCheck: New page: Asset Save: CornerWall
+[2021.02.03-21.30.59:279][305]LogContentValidation: Display: Validating Blueprint /Game/LenhartChris/Blueprints/CornerWall.CornerWall
+[2021.02.03-21.31.27:651][905]LogEditorViewport: Clicking on Actor (LMB): Hallway_C (Hallway)
+[2021.02.03-21.31.28:211][957]LogEditorViewport: Clicking on Actor (LMB): HallwayDouble_C (HallwayDouble)
+[2021.02.03-21.31.28:671][999]LogEditorViewport: Clicking on Actor (LMB): Hallway_C (Hallway)
+[2021.02.03-21.33.42:575][693]LogRenderer: Reallocating scene render targets to support 1672x1260 Format 10 NumSamples 1 (Frame:8363).
+[2021.02.03-21.35.06:667][934]LogEditorTransaction: Undo Modify Component(s)
+[2021.02.03-21.36.08:354][ 31]LogEditorTransaction: Undo Remove Components
+[2021.02.03-21.36.28:220][ 18]LogEditorTransaction: Undo Modify Component(s)
+[2021.02.03-21.37.15:128][492]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Decorative_Arches.SM_Decorative_Arches
+[2021.02.03-21.37.19:255][492]LogMaterial: Display: Missing cached shader map for material M_SkyBox, compiling. 
+[2021.02.03-21.37.19:269][492]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 7
+[2021.02.03-21.37.19:269][492]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 6
+[2021.02.03-21.37.19:269][492]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 5
+[2021.02.03-21.37.19:269][492]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 4
+[2021.02.03-21.37.19:269][492]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 3
+[2021.02.03-21.37.19:269][492]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2021.02.03-21.37.19:270][492]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.02.03-21.37.19:576][492]LogTemp: Resetting audio stream to device id 
+[2021.02.03-21.37.19:595][492]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-21.37.19:595][492]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-21.37.19:647][492]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-21.37.19:647][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-21.37.22:961][641]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-21.37.22:961][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-21.37.25:566][763]LogActorFactory: Actor Factory created SM_Decorative_Arches
+[2021.02.03-21.37.26:007][796]LogActorFactory: Actor Factory created SM_Decorative_Arches
+[2021.02.03-21.37.27:992][944]Cmd: EDIT COPY
+[2021.02.03-21.37.34:789][388]PIE: Warning: AttachTo: '/Engine/Transient.World_22:PersistentLevel.CorerWall_C_0.DefaultSceneRoot' is not static  (in blueprint "CornerWall"), cannot attach '/Engine/Transient.World_22:PersistentLevel.CorerWall_C_0.StaticMesh' which is static to it. Aborting.
+[2021.02.03-21.37.34:792][388]PIE: Warning: AttachTo: '/Engine/Transient.World_23:PersistentLevel.CorerWall_C_0.DefaultSceneRoot' is not static  (in blueprint "CornerWall"), cannot attach '/Engine/Transient.World_23:PersistentLevel.CorerWall_C_0.StaticMesh' which is static to it. Aborting.
+[2021.02.03-21.37.34:795][388]PIE: Warning: AttachTo: '/Engine/Transient.World_24:PersistentLevel.CornerWal_C_0.DefaultSceneRoot' is not static  (in blueprint "CornerWall"), cannot attach '/Engine/Transient.World_24:PersistentLevel.CornerWal_C_0.StaticMesh' which is static to it. Aborting.
+[2021.02.03-21.37.34:797][388]PIE: Warning: AttachTo: '/Engine/Transient.World_25:PersistentLevel.CornerWall_C_0.DefaultSceneRoot' is not static  (in blueprint "CornerWall"), cannot attach '/Engine/Transient.World_25:PersistentLevel.CornerWall_C_0.StaticMesh' which is static to it. Aborting.
+[2021.02.03-21.37.34:801][388]PIE: Warning: AttachTo: '/Game/LenhartChris/Maps/TestingMap.TestingMap:PersistentLevel.CornerWall_2.DefaultSceneRoot' is not static  (in blueprint "CornerWall"), cannot attach '/Game/LenhartChris/Maps/TestingMap.TestingMap:PersistentLevel.CornerWall_2.StaticMesh' which is static to it. Aborting.
+[2021.02.03-21.37.34:821][388]PIE: Warning: AttachTo: '/Engine/Transient.World_23:PersistentLevel.CorerWall_C_0.DefaultSceneRoot' is not static  (in blueprint "CornerWall"), cannot attach '/Engine/Transient.World_23:PersistentLevel.CorerWall_C_0.StaticMesh' which is static to it. Aborting.
+[2021.02.03-21.38.09:863][856]LogEditorTransaction: Undo Remove Components
+[2021.02.03-21.39.48:460][542]BlueprintLog: New page: Compile CornerWall
+[2021.02.03-21.39.49:125][542]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2021.02.03-21.40.31:486][422]BlueprintLog: New page: Compile CornerWall
+[2021.02.03-21.40.31:554][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.02.03-21.41.19:825][649]Cmd: EDIT COPY
+[2021.02.03-21.41.20:936][736]Cmd: EDIT PASTE
+[2021.02.03-21.41.22:690][889]Cmd: DELETE
+[2021.02.03-21.41.22:690][889]Cmd: ACTOR DELETE
+[2021.02.03-21.41.22:692][889]LogEditorActor: Deleted Actor: BP_Chandalier_C
+[2021.02.03-21.41.22:722][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.02.03-21.41.22:735][889]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2021.02.03-21.41.36:525][949]LogEditorTransaction: Undo Paste Component(s)
+[2021.02.03-21.41.36:716][957]LogEditorTransaction: Undo Paste Component(s)
+[2021.02.03-21.41.36:886][962]LogEditorTransaction: Undo Delete Actors
+[2021.02.03-21.41.41:894][332]LogEditorViewport: Clicking on Actor (LMB): BP_Chandalier_C (BP_Chandalier2)
+[2021.02.03-21.41.44:427][570]Cmd: DELETE
+[2021.02.03-21.41.44:427][570]Cmd: ACTOR DELETE
+[2021.02.03-21.41.44:429][570]LogEditorActor: Deleted Actor: BP_Chandalier_C
+[2021.02.03-21.41.44:459][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.02.03-21.41.44:467][570]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2021.02.03-21.41.47:253][821]LogEditorViewport: Clicking on Actor (LMB): BP_Chandalier_C (BP_Chandalier)
+[2021.02.03-21.42.13:532][ 61]BlueprintLog: New page: Compile CornerWall
+[2021.02.03-21.42.13:583][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.02.03-21.42.35:040][670]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LenhartChris/Maps/Spawn.Spawn
+[2021.02.03-21.42.35:068][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.02.03-21.42.36:081][670]LogSlate: Window 'Save Content' being destroyed
+[2021.02.03-21.42.36:102][670]LogD3D12RHI: Creating RTPSO with 152 shaders (146 cached, 6 new) took 11.56 ms. Compile time 5.45 ms, link time 5.92 ms.
+[2021.02.03-21.42.36:108][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LenhartChris/Blueprints/CornerWall" FILE="C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/LenhartChris/Blueprints/CornerWall.uasset" SILENT=true
+[2021.02.03-21.42.36:129][670]LogSavePackage: Moving 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/CornerWall8CAB463E427A032C58797A852D7B2371.tmp' to 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/LenhartChris/Blueprints/CornerWall.uasset'
+[2021.02.03-21.42.36:156][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.02.03-21.42.36:195][670]LogSavePackage: Moving 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/TestingMap2B18FD7C4A010769520E878CEC9C16F7.tmp' to 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/LenhartChris/Maps/TestingMap.umap'
+[2021.02.03-21.42.36:227][670]LogFileHelpers: Saving map 'TestingMap' took 0.096
+[2021.02.03-21.42.36:227][670]Cmd: MAP LOAD FILE="C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/LenhartChris/Maps/Spawn.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.03-21.42.36:227][670]LightingResults: New page: Lighting Build
+[2021.02.03-21.42.36:227][670]LoadErrors: New page: Loading map: Spawn.umap
+[2021.02.03-21.42.36:277][670]LogWorld: UWorld::CleanupWorld for TestingMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-21.42.36:277][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-21.42.36:277][670]MapCheck: New page: Map Check
+[2021.02.03-21.42.36:277][670]LightingResults: New page: Lighting Build
+[2021.02.03-21.42.36:303][670]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000201D2AE3740), frame # 102670
+[2021.02.03-21.42.36:303][670]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000201B55BC200), frame # 102670
+[2021.02.03-21.42.36:305][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.02.03-21.42.36:341][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.02.03-21.42.36:364][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.02.03-21.42.36:365][670]LogPhysics: Warning: Scale for /Game/LenhartChris/Maps/Spawn.Spawn:PersistentLevel.Cube2.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.02.03-21.42.36:373][670]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.03-21.42.36:374][670]LogAIModule: Creating AISystem for world Spawn
+[2021.02.03-21.42.36:374][670]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000202A9090800), frame # 102670
+[2021.02.03-21.42.36:374][670]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000201CBD5AD40), frame # 102670
+[2021.02.03-21.42.36:401][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.02.03-21.42.36:421][670]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.03-21.42.36:421][670]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.098ms to complete.
+[2021.02.03-21.42.36:422][670]LogFileHelpers: Loading map 'Spawn' took 0.195
+[2021.02.03-21.42.36:470][670]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.03-21.42.36:471][670]LogContentValidation: Display: Validating Blueprint /Game/LenhartChris/Blueprints/CornerWall.CornerWall
+[2021.02.03-21.42.36:471][670]LogContentValidation: Display: Validating World /Game/LenhartChris/Maps/TestingMap.TestingMap
+[2021.02.03-21.42.36:616][671]LogD3D12RHI: Creating RTPSO with 153 shaders (152 cached, 1 new) took 15.27 ms. Compile time 10.01 ms, link time 5.10 ms.
+[2021.02.03-21.42.38:459][803]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-21.42.38:471][803]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.02.03-21.42.38:471][803]LogPlayLevel: [PlayLevel] Compiling BP_Dungeon_Doorway before play...
+[2021.02.03-21.42.38:523][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.02.03-21.42.38:530][803]LogPlayLevel: PlayLevel: Blueprint regeneration took 58 ms (1 blueprints)
+[2021.02.03-21.42.38:530][803]PIE: New page: PIE session: Spawn (Feb 3, 2021, 5:42:38 AM)
+[2021.02.03-21.42.38:531][803]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.02.03-21.42.38:532][803]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.02.03-21.42.38:532][803]LogPlayLevel: Creating play world package: /Game/LenhartChris/Maps/UEDPIE_0_Spawn
+[2021.02.03-21.42.38:552][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020294s)
+[2021.02.03-21.42.38:553][803]LogAIModule: Creating AISystem for world Spawn
+[2021.02.03-21.42.38:553][803]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002027A6CCA00), frame # 102803
+[2021.02.03-21.42.38:553][803]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000202A9133D80), frame # 102803
+[2021.02.03-21.42.38:553][803]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2021.02.03-21.42.38:553][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LenhartChris/Maps/Spawn.Spawn to /Game/LenhartChris/Maps/UEDPIE_0_Spawn.Spawn (0.021206s)
+[2021.02.03-21.42.38:587][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.02.03-21.42.38:589][803]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-21.42.38:589][803]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-21.42.38:589][803]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-21.42.38:589][803]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-21.42.38:589][803]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-21.42.38:589][803]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-21.42.38:589][803]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-21.42.38:589][803]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-21.42.38:589][803]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-21.42.38:589][803]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-21.42.38:593][803]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-21.42.38:593][803]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-21.42.38:605][803]LogAudioMixer: Display: Using Audio Device LEN Y27gq-25 (2- NVIDIA High Definition Audio)
+[2021.02.03-21.42.38:605][803]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-21.42.38:605][803]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-21.42.38:605][803]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-21.42.38:606][803]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-21.42.38:616][803]LogInit: FAudioDevice initialized.
+[2021.02.03-21.42.38:623][803]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.03-21.42.38:624][803]LogPhysics: Warning: Scale for /Game/LenhartChris/Maps/UEDPIE_0_Spawn.Spawn:PersistentLevel.Cube2.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.02.03-21.42.38:625][803]LogWorld: Bringing World /Game/LenhartChris/Maps/UEDPIE_0_Spawn.Spawn up for play (max tick rate 0) at 2021.02.03-13.42.38
+[2021.02.03-21.42.38:626][803]LogWorld: Bringing up level for play took: 0.001847
+[2021.02.03-21.42.38:626][803]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.02.03-21.42.38:628][803]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.02.03-21.42.38:628][803]PIE: Server logged in
+[2021.02.03-21.42.38:629][803]PIE: Play in editor total start time 0.158 seconds.
+[2021.02.03-21.42.44:935][455]LogNet: Browse: /Game/LenhartChris/Maps/Tutorial
+[2021.02.03-21.42.44:944][455]LogLoad: LoadMap: /Game/LenhartChris/Maps/Tutorial
+[2021.02.03-21.42.44:944][455]LogWorld: BeginTearingDown for /Game/LenhartChris/Maps/UEDPIE_0_Spawn
+[2021.02.03-21.42.44:947][455]LogWorld: UWorld::CleanupWorld for Spawn, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-21.42.44:948][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-21.42.45:027][455]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000202A9133D80), frame # 103455
+[2021.02.03-21.42.45:027][455]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002027A6CCA00), frame # 103455
+[2021.02.03-21.42.45:030][455]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.02.03-21.42.45:288][455]LogAIModule: Creating AISystem for world Tutorial
+[2021.02.03-21.42.45:288][455]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000202AD6A7600), frame # 103455
+[2021.02.03-21.42.45:288][455]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000202C86A7D80), frame # 103455
+[2021.02.03-21.42.45:288][455]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.03-21.42.45:291][455]LogPhysics: Warning: Scale for /Game/LenhartChris/Maps/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.Cube3_2.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=9.000 Y=0.000 Z=9.000
+[2021.02.03-21.42.45:300][455]LogWorld: Bringing World /Game/LenhartChris/Maps/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2021.02.03-13.42.45
+[2021.02.03-21.42.45:300][455]LogWorld: Bringing up level for play took: 0.010879
+[2021.02.03-21.42.45:309][455]LogLoad: Took 0.364222 seconds to LoadMap(/Game/LenhartChris/Maps/Tutorial)
+[2021.02.03-21.42.45:335][457]LogD3D12RHI: Creating RTPSO with 157 shaders (153 cached, 4 new) took 11.39 ms. Compile time 5.66 ms, link time 5.54 ms.
+[2021.02.03-21.42.50:289][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-21.42.50:289][ 33]LogWorld: BeginTearingDown for /Game/LenhartChris/Maps/UEDPIE_0_Tutorial
+[2021.02.03-21.42.50:290][ 33]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-21.42.50:292][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-21.42.50:312][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-21.42.50:327][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-21.42.50:368][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-21.42.50:399][ 33]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000202C86A7D80), frame # 104033
+[2021.02.03-21.42.50:399][ 33]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000202AD6A7600), frame # 104033
+[2021.02.03-21.42.50:404][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.02.03-21.42.50:440][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.02.03-21.42.56:160][592]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LenhartChris/Maps/TestingMap.TestingMap
+[2021.02.03-21.42.56:185][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.02.03-21.42.57:090][592]LogSlate: Window 'Save Content' being destroyed
+[2021.02.03-21.42.57:299][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.02.03-21.42.57:612][592]LogSavePackage: Moving 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Demonstration3B5DD25247DE460DF4A494BF86A70C98.tmp' to 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/MedievalDungeon/Maps/Demonstration.umap'
+[2021.02.03-21.42.57:704][592]LogFileHelpers: Saving map 'Demonstration' took 0.573
+[2021.02.03-21.42.57:731][592]LogSavePackage: Moving 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Demonstration_BuiltData27965611455301D741CD0B823459682A.tmp' to 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/MedievalDungeon/Maps/Demonstration_BuiltData.uasset'
+[2021.02.03-21.42.57:732][592]Cmd: MAP LOAD FILE="C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/LenhartChris/Maps/TestingMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.03-21.42.57:732][592]LightingResults: New page: Lighting Build
+[2021.02.03-21.42.57:732][592]LoadErrors: New page: Loading map: TestingMap.umap
+[2021.02.03-21.42.57:733][592]LogWorld: UWorld::CleanupWorld for Spawn, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-21.42.57:733][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-21.42.57:734][592]MapCheck: New page: Map Check
+[2021.02.03-21.42.57:734][592]LightingResults: New page: Lighting Build
+[2021.02.03-21.42.57:767][592]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000201CBD5AD40), frame # 104592
+[2021.02.03-21.42.57:767][592]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000202A9090800), frame # 104592
+[2021.02.03-21.42.57:770][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.02.03-21.42.57:797][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.02.03-21.42.57:821][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.02.03-21.42.57:823][592]LogPhysics: Warning: Scale for /Game/LenhartChris/Maps/TestingMap.TestingMap:PersistentLevel.Cube2.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.02.03-21.42.57:846][592]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.03-21.42.57:846][592]LogAIModule: Creating AISystem for world TestingMap
+[2021.02.03-21.42.57:846][592]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020201595E00), frame # 104592
+[2021.02.03-21.42.57:846][592]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020186CAA840), frame # 104592
+[2021.02.03-21.42.57:876][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.02.03-21.42.57:899][592]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.03-21.42.57:900][592]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.1ms to complete.
+[2021.02.03-21.42.57:900][592]LogFileHelpers: Loading map 'TestingMap' took 0.168
+[2021.02.03-21.42.57:956][592]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.03-21.42.57:956][592]LogContentValidation: Display: Validating World /Game/MedievalDungeon/Maps/Demonstration.Demonstration
+[2021.02.03-21.42.57:956][592]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MedievalDungeon/Maps/Demonstration_BuiltData.Demonstration_BuiltData
+[2021.02.03-21.44.31:201][692]BlueprintLog: New page: Compile CornerWall
+[2021.02.03-21.44.31:308][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.02.03-21.49.23:239][803]BlueprintLog: New page: Compile CornerWall
+[2021.02.03-21.49.23:645][803]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.02.03-21.51.29:582][472]BlueprintLog: New page: Compile Hallway
+[2021.02.03-21.51.29:857][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.02.03-21.51.33:381][719]BlueprintLog: New page: Compile CornerWall
+[2021.02.03-21.51.33:432][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.02.03-21.51.34:246][777]BlueprintLog: New page: Compile HallwayDouble
+[2021.02.03-21.51.34:318][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.02.03-21.51.35:297][846]BlueprintLog: New page: Compile BP_Dungeon_Doorway
+[2021.02.03-21.51.35:344][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.02.03-21.51.36:448][940]BlueprintLog: New page: Compile Hallway
+[2021.02.03-21.51.36:506][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.02.03-21.51.43:738][492]LogSlate: Window 'CornerWall' being destroyed
+[2021.02.03-21.51.43:764][492]LogSlate: Window 'CornerWall' being destroyed
+[2021.02.03-21.51.43:781][492]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-21.51.43:781][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-21.51.43:824][492]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.02.03-21.51.43:824][492]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-21.51.43:824][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-21.51.43:869][492]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.02.03-21.51.43:869][492]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-21.51.43:869][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-21.51.43:924][492]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.02.03-21.51.43:924][492]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-21.51.43:924][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-21.51.45:438][660]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.02.03-21.51.46:492][660]LogSlate: Window 'Save Content' being destroyed
+[2021.02.03-21.51.46:520][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LenhartChris/Blueprints/CornerWall" FILE="C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/LenhartChris/Blueprints/CornerWall.uasset" SILENT=true
+[2021.02.03-21.51.46:540][660]LogSavePackage: Moving 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/CornerWallEFBE25434F7FCFCFDB0F6CB19213BEC0.tmp' to 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/LenhartChris/Blueprints/CornerWall.uasset'
+[2021.02.03-21.51.46:550][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LenhartChris/Blueprints/Hallway" FILE="C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/LenhartChris/Blueprints/Hallway.uasset" SILENT=true
+[2021.02.03-21.51.46:574][660]LogSavePackage: Moving 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/HallwayDADE12A64FCD604B001F54B23CCBE47C.tmp' to 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/LenhartChris/Blueprints/Hallway.uasset'
+[2021.02.03-21.51.46:609][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.02.03-21.51.46:654][660]LogSavePackage: Moving 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/TestingMap5DBD39BA40631C1E51C495B227B9FFA8.tmp' to 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/LenhartChris/Maps/TestingMap.umap'
+[2021.02.03-21.51.46:682][660]LogFileHelpers: Saving map 'TestingMap' took 0.107
+[2021.02.03-21.51.46:881][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.02.03-21.51.47:185][660]LogSavePackage: Moving 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Demonstration379491AC4CEBF21EDE66AA967C8CA120.tmp' to 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/MedievalDungeon/Maps/Demonstration.umap'
+[2021.02.03-21.51.47:270][660]LogFileHelpers: Saving map 'Demonstration' took 0.555
+[2021.02.03-21.51.47:284][660]LogSavePackage: Moving 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Saved/Demonstration_BuiltData16F6F4B14390C68F61387892239AB2EE.tmp' to 'C:/Users/HPU Player 9/Desktop/GitGlubCTL/PuzzleRunner/Content/MedievalDungeon/Maps/Demonstration_BuiltData.uasset'
+[2021.02.03-21.51.47:318][660]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.03-21.51.47:318][660]LogContentValidation: Display: Validating Blueprint /Game/LenhartChris/Blueprints/CornerWall.CornerWall
+[2021.02.03-21.51.47:318][660]LogContentValidation: Display: Validating Blueprint /Game/LenhartChris/Blueprints/Hallway.Hallway
+[2021.02.03-21.51.47:318][660]LogContentValidation: Display: Validating World /Game/LenhartChris/Maps/TestingMap.TestingMap
+[2021.02.03-21.51.47:318][660]LogContentValidation: Display: Validating World /Game/MedievalDungeon/Maps/Demonstration.Demonstration
+[2021.02.03-21.51.47:318][660]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MedievalDungeon/Maps/Demonstration_BuiltData.Demonstration_BuiltData
