@@ -624,3 +624,1675 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.07-21.49.38:899][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/' took 0.01s
 [2021.02.07-21.49.39:040][  0]SourceControl: Source control is disabled
 [2021.02.07-21.49.39:224][  0]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.02.07-21.50.19:715][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2021.02.07-21.50.19:716][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.02.07-21.50.19:728][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.02.07-21.50.24:832][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2021.02.07-21.50.24:833][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.02.07-21.50.24:837][  0]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/LenhartChris/Prefabs/Rooms/SingleHallwayIntoFinalRoom
+/Game/LenhartChris/Maps/DemoStuff/TestingMap
+/Game/LenhartChris/Prefabs/Components/RoofWithPilars
+/Game/LenhartChris/Prefabs/Components/WallStyled
+/Game/LenhartChris/Materials/GlowEnhanced
+/Game/LenhartChris/Prefabs/Components/WallStyledWithRoof
+[2021.02.07-21.50.24:877][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.02.07-21.50.24:878][  0]LogUnrealEdMisc: Loading editor; pre map load, took 51.738
+[2021.02.07-21.50.24:879][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.07-21.50.24:879][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.02.07-21.50.24:879][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.07-21.50.24:879][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.173ms to complete.
+[2021.02.07-21.50.24:879][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.001
+[2021.02.07-21.50.24:881][  0]LogUnrealEdMisc: Total Editor Startup Time, took 51.741
+[2021.02.07-21.50.24:945][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.07-21.50.24:950][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.07-21.50.24:955][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.07-21.50.24:960][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.07-21.50.24:966][  0]LogCollectionManager: Loaded 0 collections in 0.001634 seconds
+[2021.02.07-21.50.24:978][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Saved/Collections/' took 0.00s
+[2021.02.07-21.50.24:978][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/Developers/ctlen/Collections/' took 0.00s
+[2021.02.07-21.50.24:978][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/Collections/' took 0.00s
+[2021.02.07-21.50.24:978][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 3427 classes and 821 folders.
+[2021.02.07-21.50.24:980][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.07-21.50.25:026][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.07-21.50.25:027][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0001 seconds. Added 2 classes and 0 folders.
+[2021.02.07-21.50.25:051][  0]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.02.07-21.50.25:054][  0]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.02.07-21.50.25:080][  0]LogRenderer: Reallocating scene render targets to support 1100x548 Format 10 NumSamples 1 (Frame:1).
+[2021.02.07-21.50.25:221][  0]LogD3D12RHI: Creating RTPSO with 131 shaders (0 cached, 131 new) took 126.73 ms. Compile time 112.30 ms, link time 14.27 ms.
+[2021.02.07-21.50.25:284][  0]LogD3D12RHI: Creating RTPSO with 3 shaders (3 cached, 0 new) took 39.30 ms. Compile time 0.02 ms, link time 39.27 ms.
+[2021.02.07-21.50.25:320][  0]LogD3D12RHI: Creating RTPSO with 3 shaders (0 cached, 3 new) took 12.94 ms. Compile time 3.55 ms, link time 9.37 ms.
+[2021.02.07-21.50.25:448][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.07-21.50.25:448][  0]LogLoad: (Engine Initialization) Total time: 52.31 seconds
+[2021.02.07-21.50.25:448][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.02.07-21.50.25:490][  0]LogAssetRegistry: Asset discovery search completed in 48.7697 seconds
+[2021.02.07-21.50.25:493][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.02.07-21.50.25:494][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.02.07-21.50.33:617][950]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.07-21.50.34:498][950]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LenhartChris/Maps/GameLevels/Caves.Caves
+[2021.02.07-21.50.34:525][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.02.07-21.50.34:527][950]Cmd: MAP LOAD FILE="../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Maps/GameLevels/Caves.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.07-21.50.34:527][950]LightingResults: New page: Lighting Build
+[2021.02.07-21.50.34:528][950]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 6 classes and 0 folders.
+[2021.02.07-21.50.34:528][950]LoadErrors: New page: Loading map: Caves.umap
+[2021.02.07-21.50.34:553][950]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.02.07-21.50.34:553][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.07-21.50.34:553][950]MapCheck: New page: Map Check
+[2021.02.07-21.50.34:553][950]LightingResults: New page: Lighting Build
+[2021.02.07-21.50.34:562][950]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002A7C1853C00), frame # 950
+[2021.02.07-21.50.34:562][950]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002A7C184FB00), frame # 950
+[2021.02.07-21.50.34:563][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.02.07-21.50.34:876][950]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.07-21.50.34:876][950]LogAIModule: Creating AISystem for world Caves
+[2021.02.07-21.50.34:876][950]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002A822E1FC00), frame # 950
+[2021.02.07-21.50.34:876][950]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002A8178D8A40), frame # 950
+[2021.02.07-21.50.34:919][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.02.07-21.50.34:951][950]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.07-21.50.34:951][950]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.151ms to complete.
+[2021.02.07-21.50.34:951][950]LogFileHelpers: Loading map 'Caves' took 0.424
+[2021.02.07-21.50.34:988][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_162
+[2021.02.07-21.50.34:988][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_163
+[2021.02.07-21.50.34:988][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_164
+[2021.02.07-21.50.34:988][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': WallStyled_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyled_2
+[2021.02.07-21.50.34:988][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': WallStyled_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyled_GEN_VARIABLE_WallStyled_C_CAT_216
+[2021.02.07-21.50.34:988][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': WallStyled_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyled_GEN_VARIABLE_WallStyled_C_CAT_217
+[2021.02.07-21.50.34:988][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': WallStyled_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyled_GEN_VARIABLE_WallStyled_C_CAT_218
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': WallStyled_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyled_GEN_VARIABLE_WallStyled_C_CAT_219
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_324
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_325
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_326
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_327
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_328
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_329
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_162
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar3': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_162
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar5': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_162
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar6': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_162
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Roof': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_162
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Roof1': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_162
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch2': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_162
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch3': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_162
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch4': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_162
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch5': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_162
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_163
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar3': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_163
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar5': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_163
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar6': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_163
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Roof': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_163
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Roof1': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_163
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch2': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_163
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch3': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_163
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch4': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_163
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch5': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_163
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_164
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar3': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_164
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar5': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_164
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar6': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_164
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Roof': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_164
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Roof1': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_164
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch2': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_164
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch3': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_164
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch4': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_164
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch5': RoofWithPilars_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.RoofWithPilars_GEN_VARIABLE_RoofWithPilars_C_CAT_164
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar3': WallStyled_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyled_2
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar5': WallStyled_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyled_2
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch5': WallStyled_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyled_2
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Wall2': WallStyled_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyled_2
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar3': WallStyled_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyled_GEN_VARIABLE_WallStyled_C_CAT_216
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar5': WallStyled_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyled_GEN_VARIABLE_WallStyled_C_CAT_216
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch5': WallStyled_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyled_GEN_VARIABLE_WallStyled_C_CAT_216
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Wall2': WallStyled_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyled_GEN_VARIABLE_WallStyled_C_CAT_216
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar3': WallStyled_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyled_GEN_VARIABLE_WallStyled_C_CAT_217
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar5': WallStyled_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyled_GEN_VARIABLE_WallStyled_C_CAT_217
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch5': WallStyled_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyled_GEN_VARIABLE_WallStyled_C_CAT_217
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Wall2': WallStyled_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyled_GEN_VARIABLE_WallStyled_C_CAT_217
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar3': WallStyled_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyled_GEN_VARIABLE_WallStyled_C_CAT_218
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar5': WallStyled_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyled_GEN_VARIABLE_WallStyled_C_CAT_218
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch5': WallStyled_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyled_GEN_VARIABLE_WallStyled_C_CAT_218
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Wall2': WallStyled_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyled_GEN_VARIABLE_WallStyled_C_CAT_218
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar3': WallStyled_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyled_GEN_VARIABLE_WallStyled_C_CAT_219
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar5': WallStyled_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyled_GEN_VARIABLE_WallStyled_C_CAT_219
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch5': WallStyled_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyled_GEN_VARIABLE_WallStyled_C_CAT_219
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Wall2': WallStyled_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyled_GEN_VARIABLE_WallStyled_C_CAT_219
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar3': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_324
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar5': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_324
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Roof1': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_324
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch3': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_324
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch4': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_324
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch5': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_324
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Wall2': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_324
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar3': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_325
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar5': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_325
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Roof1': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_325
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch3': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_325
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch4': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_325
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch5': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_325
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Wall2': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_325
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar3': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_326
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar5': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_326
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Roof1': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_326
+[2021.02.07-21.50.34:989][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch3': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_326
+[2021.02.07-21.50.34:990][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch4': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_326
+[2021.02.07-21.50.34:990][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch5': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_326
+[2021.02.07-21.50.34:990][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Wall2': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_326
+[2021.02.07-21.50.34:990][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar3': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_327
+[2021.02.07-21.50.34:990][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar5': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_327
+[2021.02.07-21.50.34:990][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Roof1': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_327
+[2021.02.07-21.50.34:990][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch3': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_327
+[2021.02.07-21.50.34:990][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch4': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_327
+[2021.02.07-21.50.34:990][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch5': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_327
+[2021.02.07-21.50.34:990][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Wall2': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_327
+[2021.02.07-21.50.34:990][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar3': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_328
+[2021.02.07-21.50.34:990][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar5': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_328
+[2021.02.07-21.50.34:990][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Roof1': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_328
+[2021.02.07-21.50.34:990][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch3': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_328
+[2021.02.07-21.50.34:990][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch4': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_328
+[2021.02.07-21.50.34:990][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch5': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_328
+[2021.02.07-21.50.34:990][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Wall2': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_328
+[2021.02.07-21.50.34:990][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar3': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_329
+[2021.02.07-21.50.34:990][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Pillar5': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_329
+[2021.02.07-21.50.34:990][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Roof1': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_329
+[2021.02.07-21.50.34:990][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch3': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_329
+[2021.02.07-21.50.34:990][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch4': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_329
+[2021.02.07-21.50.34:990][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopArch5': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_329
+[2021.02.07-21.50.34:990][950]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Wall2': WallStyledWithRoof_C /Game/LenhartChris/Maps/GameLevels/Caves.Caves:PersistentLevel.WallStyledWithRoof_GEN_VARIABLE_WallStyledWithRoof_C_CAT_329
+[2021.02.07-21.50.35:054][952]LogD3D12RHI: Creating RTPSO with 151 shaders (132 cached, 19 new) took 27.37 ms. Compile time 22.00 ms, link time 5.21 ms.
+[2021.02.07-21.50.35:118][953]LogD3D12RHI: Creating RTPSO with 152 shaders (151 cached, 1 new) took 16.77 ms. Compile time 9.33 ms, link time 7.26 ms.
+[2021.02.07-21.50.44:427][997]LogLinker: Warning: While loading '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Maps/DemoStuff/TestingMap.umap' failed to load '/Game/LenhartChris/Materials/GlowEnhanced_Inst': Can't find file.
+[2021.02.07-21.50.44:428][997]LogLinker: Warning: While loading '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Maps/DemoStuff/TestingMap.umap' failed to load '/Game/LenhartChris/Materials/GlowEnhanced_Inst': Can't find file.
+[2021.02.07-21.50.44:428][997]LogLinker: Warning: While loading '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Maps/DemoStuff/TestingMap.umap' failed to load '/Game/LenhartChris/Materials/GlowEnhanced_Inst': Can't find file.
+[2021.02.07-21.50.44:429][997]LogLinker: Warning: While loading '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Maps/DemoStuff/TestingMap.umap' failed to load '/Game/LenhartChris/Materials/GlowEnhanced_Inst': Can't find file.
+[2021.02.07-21.50.44:448][997]LogLinker: Warning: Failed to load '/Game/LenhartChris/Materials/GlowEnhanced_Inst': Can't find file.
+[2021.02.07-21.50.44:448][997]LogLinker: Warning: Failed to load '/Game/LenhartChris/Materials/GlowEnhanced_Inst': Can't find file.
+[2021.02.07-21.50.44:448][997]LogLinker: Warning: Failed to load '/Game/LenhartChris/Materials/GlowEnhanced_Inst': Can't find file.
+[2021.02.07-21.50.44:448][997]LogLinker: Warning: Failed to load '/Game/LenhartChris/Materials/GlowEnhanced_Inst': Can't find file.
+[2021.02.07-21.50.44:479][997]LogLinker: Warning: While loading '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Maps/DemoStuff/TestingMap.umap' failed to load '/Game/LenhartChris/Materials/GlowEnhanced_Inst': Can't find file.
+[2021.02.07-21.50.44:479][997]LoadErrors: Failed to load /Game/LenhartChris/Materials/GlowEnhanced_Inst.GlowEnhanced_Inst Referenced by SM_Crypt_Floor7
+[2021.02.07-21.50.44:479][997]LogLinker: Warning: While loading '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Maps/DemoStuff/TestingMap.umap' failed to load '/Game/LenhartChris/Materials/GlowEnhanced_Inst': Can't find file.
+[2021.02.07-21.50.44:678][997]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LenhartChris/Maps/DemoStuff/TestingMap.TestingMap
+[2021.02.07-21.50.44:693][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.02.07-21.50.44:697][997]Cmd: MAP LOAD FILE="../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Maps/DemoStuff/TestingMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.07-21.50.44:697][997]LightingResults: New page: Lighting Build
+[2021.02.07-21.50.44:697][997]LoadErrors: New page: Loading map: TestingMap.umap
+[2021.02.07-21.50.44:755][997]LogWorld: UWorld::CleanupWorld for Caves, bSessionEnded=true, bCleanupResources=true
+[2021.02.07-21.50.44:755][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.07-21.50.44:756][997]MapCheck: New page: Map Check
+[2021.02.07-21.50.44:756][997]LightingResults: New page: Lighting Build
+[2021.02.07-21.50.44:770][997]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002A8178D8A40), frame # 1997
+[2021.02.07-21.50.44:770][997]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002A822E1FC00), frame # 1997
+[2021.02.07-21.50.44:771][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.02.07-21.50.45:002][997]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.07-21.50.45:002][997]LogAIModule: Creating AISystem for world TestingMap
+[2021.02.07-21.50.45:002][997]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002A824806800), frame # 1997
+[2021.02.07-21.50.45:002][997]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002A8178BA0C0), frame # 1997
+[2021.02.07-21.50.45:023][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.02.07-21.50.45:054][997]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.07-21.50.45:055][997]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.145ms to complete.
+[2021.02.07-21.50.45:055][997]LogFileHelpers: Loading map 'TestingMap' took 0.359
+[2021.02.07-21.50.45:127][999]LogD3D12RHI: Creating RTPSO with 159 shaders (152 cached, 7 new) took 12.18 ms. Compile time 6.79 ms, link time 5.23 ms.
+[2021.02.07-21.51.53:561][810]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/LenhartChris/Materials/GlowEnhancedV2.GlowEnhancedV2
+[2021.02.07-21.51.53:563][810]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.51.53:810][810]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.51.53:817][810]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.51.53:830][810]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.51.53:830][810]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.51.53:830][810]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.51.53:830][810]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.51.53:830][810]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.51.53:830][810]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.51.53:830][810]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.51.53:830][810]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.51.53:830][810]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.51.53:831][810]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.51.53:831][810]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.51.53:831][810]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.51.53:833][810]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2021.02.07-21.51.53:837][810]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2021.02.07-21.51.53:839][810]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_1, compiling. 
+[2021.02.07-21.51.53:842][810]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_0, compiling. 
+[2021.02.07-21.51.53:844][810]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_1, compiling. 
+[2021.02.07-21.51.53:847][810]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2021.02.07-21.51.53:849][810]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_1, compiling. 
+[2021.02.07-21.51.53:852][810]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionOneMinus_0, compiling. 
+[2021.02.07-21.51.53:854][810]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionOneMinus_1, compiling. 
+[2021.02.07-21.51.53:857][810]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_0, compiling. 
+[2021.02.07-21.51.53:859][810]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_1, compiling. 
+[2021.02.07-21.51.53:861][810]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_2, compiling. 
+[2021.02.07-21.51.53:909][810]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.02.07-21.51.53:984][811]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.07-21.51.54:491][833]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 50
+[2021.02.07-21.51.54:597][838]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 49
+[2021.02.07-21.51.54:597][838]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 48
+[2021.02.07-21.51.54:699][845]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 47
+[2021.02.07-21.51.54:699][845]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 46
+[2021.02.07-21.51.54:715][846]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 45
+[2021.02.07-21.51.54:768][849]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 44
+[2021.02.07-21.51.54:791][850]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 43
+[2021.02.07-21.51.54:813][851]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 42
+[2021.02.07-21.51.54:813][851]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 41
+[2021.02.07-21.51.54:813][851]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 40
+[2021.02.07-21.51.54:916][855]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 39
+[2021.02.07-21.51.55:014][859]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 38
+[2021.02.07-21.51.55:014][859]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 37
+[2021.02.07-21.51.55:085][862]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 36
+[2021.02.07-21.51.55:149][864]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.02.07-21.51.55:149][864]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2021.02.07-21.51.55:149][864]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.02.07-21.51.55:149][864]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.51.55:149][864]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.51.55:149][864]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.51.55:169][864]LogSlate: Took 0.000407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.02.07-21.51.55:197][866]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 35
+[2021.02.07-21.51.55:278][869]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 34
+[2021.02.07-21.51.55:278][869]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 33
+[2021.02.07-21.51.55:278][869]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 32
+[2021.02.07-21.51.55:345][872]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 31
+[2021.02.07-21.51.55:345][872]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 30
+[2021.02.07-21.51.55:345][872]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 29
+[2021.02.07-21.51.55:367][873]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 28
+[2021.02.07-21.51.55:460][877]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 27
+[2021.02.07-21.51.55:488][878]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 26
+[2021.02.07-21.51.55:569][881]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 25
+[2021.02.07-21.51.55:601][882]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 24
+[2021.02.07-21.51.55:786][889]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 23
+[2021.02.07-21.51.55:786][889]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 22
+[2021.02.07-21.51.55:786][889]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 21
+[2021.02.07-21.51.55:880][893]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 20
+[2021.02.07-21.51.55:910][894]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 19
+[2021.02.07-21.51.55:910][894]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 18
+[2021.02.07-21.51.55:910][894]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 17
+[2021.02.07-21.51.55:954][896]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2021.02.07-21.51.56:021][899]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 15
+[2021.02.07-21.51.56:046][900]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2021.02.07-21.51.56:078][901]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2021.02.07-21.51.56:135][903]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2021.02.07-21.51.56:355][911]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.51.56:382][912]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.51.56:408][913]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.51.56:448][915]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2021.02.07-21.51.56:474][916]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2021.02.07-21.51.56:494][917]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 6
+[2021.02.07-21.51.56:513][918]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2021.02.07-21.51.56:532][919]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.02.07-21.51.56:572][921]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.02.07-21.51.56:597][922]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.02.07-21.51.56:620][923]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2021.02.07-21.52.13:501][665]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.52.13:529][666]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.52.13:529][666]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.52.13:529][666]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.52.13:529][666]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.52.13:529][666]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.52.13:530][666]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.52.13:530][666]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.52.13:530][666]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.52.13:530][666]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.52.13:530][666]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.52.13:530][666]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.52.13:530][666]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.52.13:809][679]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.02.07-21.52.14:063][688]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.02.07-21.52.14:370][707]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.02.07-21.52.14:371][707]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2021.02.07-21.52.14:371][707]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.02.07-21.52.14:371][707]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.52.14:371][707]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.52.14:371][707]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.52.17:164][998]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.52.17:185][999]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.52.17:185][999]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.52.17:185][999]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.52.17:185][999]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.52.17:185][999]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.52.17:185][999]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.52.17:185][999]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.52.17:185][999]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.52.17:186][999]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.52.17:186][999]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.52.17:186][999]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.52.17:186][999]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.52.17:428][ 11]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.02.07-21.52.17:717][ 20]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.02.07-21.52.18:216][ 67]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.02.07-21.52.18:216][ 67]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2021.02.07-21.52.18:216][ 67]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.02.07-21.52.18:216][ 67]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.52.18:216][ 67]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.52.18:216][ 67]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.52.24:993][773]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.52.25:001][773]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.52.25:001][773]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.52.25:001][773]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.52.25:001][773]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.52.25:001][773]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.52.25:001][773]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.52.25:001][773]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.52.25:001][773]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.52.25:001][773]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.52.25:001][773]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.52.25:001][773]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.52.25:001][773]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.52.25:003][773]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.52.25:315][786]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.52.25:524][793]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2021.02.07-21.52.25:570][795]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 12
+[2021.02.07-21.52.25:637][798]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2021.02.07-21.52.25:657][799]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2021.02.07-21.52.25:657][799]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.52.25:674][800]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2021.02.07-21.52.25:692][801]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2021.02.07-21.52.25:765][805]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.52.25:784][806]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2021.02.07-21.52.25:807][807]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.02.07-21.52.25:807][807]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.52.25:831][808]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.02.07-21.52.26:150][819]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2021.02.07-21.52.26:534][841]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.02.07-21.52.26:534][841]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2021.02.07-21.52.26:534][841]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.02.07-21.52.26:534][841]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.52.26:534][841]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.52.26:534][841]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.52.27:439][932]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.52.27:448][932]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.52.27:465][933]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.52.27:465][933]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.52.27:465][933]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.52.27:465][933]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.52.27:465][933]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.52.27:465][933]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.52.27:465][933]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.52.27:465][933]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.52.27:465][933]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.52.27:465][933]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.52.27:465][933]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.52.27:465][933]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.52.27:747][947]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.02.07-21.52.28:000][955]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.02.07-21.52.28:319][974]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.02.07-21.52.28:319][974]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2021.02.07-21.52.28:319][974]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.02.07-21.52.28:319][974]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.52.28:319][974]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.52.28:319][974]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.52.37:138][934]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.52.37:148][934]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.52.37:176][935]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.52.37:176][935]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.52.37:176][935]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.52.37:176][935]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.52.37:176][935]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.52.37:176][935]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.52.37:176][935]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.52.37:176][935]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.52.37:176][935]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.52.37:176][935]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.52.37:176][935]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.52.37:176][935]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.52.37:424][949]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.02.07-21.52.37:719][959]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.02.07-21.52.38:031][977]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.02.07-21.52.38:031][977]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2021.02.07-21.52.38:031][977]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.02.07-21.52.38:031][977]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.52.38:031][977]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.52.38:031][977]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.52.42:367][451]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_21.MaterialExpressionAdd_0"')'
+[2021.02.07-21.52.42:372][451]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.52.42:399][452]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.52.42:399][452]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.52.42:399][452]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.52.42:399][452]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.52.42:399][452]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.52.42:399][452]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.52.42:399][452]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.52.42:399][452]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.52.42:399][452]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.52.42:399][452]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.52.42:399][452]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.52.42:400][452]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.52.42:693][466]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.02.07-21.52.42:915][473]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.02.07-21.52.44:113][601]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.02.07-21.52.44:113][601]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2021.02.07-21.52.44:113][601]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.02.07-21.52.44:113][601]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.52.44:113][601]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.52.44:113][601]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.52.45:331][730]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.52.45:351][731]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.52.45:351][731]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.52.45:351][731]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.52.45:351][731]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.52.45:351][731]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.52.45:351][731]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.52.45:351][731]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.52.45:351][731]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.52.45:351][731]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.52.45:351][731]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.52.45:351][731]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.52.45:351][731]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.52.45:634][745]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.02.07-21.52.45:892][753]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.02.07-21.52.46:210][772]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.02.07-21.52.46:210][772]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2021.02.07-21.52.46:210][772]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.02.07-21.52.46:210][772]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.52.46:210][772]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.52.46:210][772]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.52.51:366][290]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.52.51:393][291]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.52.51:393][291]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.52.51:393][291]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.52.51:393][291]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.52.51:393][291]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.52.51:393][291]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.52.51:393][291]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.52.51:393][291]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.52.51:393][291]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.52.51:393][291]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.52.51:394][291]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.52.51:394][291]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.52.51:690][305]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.02.07-21.52.51:926][313]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.02.07-21.52.52:769][398]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.02.07-21.52.52:769][398]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2021.02.07-21.52.52:769][398]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.02.07-21.52.52:769][398]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.52.52:769][398]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.52.52:769][398]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.52.53:668][491]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.52.53:688][492]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.52.53:688][492]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.52.53:688][492]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.52.53:688][492]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.52.53:688][492]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.52.53:688][492]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.52.53:688][492]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.52.53:688][492]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.52.53:688][492]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.52.53:688][492]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.52.53:688][492]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.52.53:688][492]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.52.53:948][506]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.02.07-21.52.54:255][516]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.02.07-21.52.54:570][536]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.02.07-21.52.54:570][536]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2021.02.07-21.52.54:570][536]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.02.07-21.52.54:570][536]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.52.54:570][536]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.52.54:570][536]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.52.59:936][ 89]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.52.59:971][ 90]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.52.59:971][ 90]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.52.59:971][ 90]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.52.59:971][ 90]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.52.59:971][ 90]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.52.59:971][ 90]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.52.59:971][ 90]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.52.59:971][ 90]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.52.59:971][ 90]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.52.59:971][ 90]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.52.59:971][ 90]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.52.59:971][ 90]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.53.00:229][101]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.02.07-21.53.00:497][110]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.02.07-21.53.01:118][171]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.02.07-21.53.01:119][171]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2021.02.07-21.53.01:119][171]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.02.07-21.53.01:119][171]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.53.01:119][171]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.53.01:119][171]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.53.02:206][285]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.53.02:227][286]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.53.02:227][286]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.53.02:227][286]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.53.02:227][286]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.53.02:227][286]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.53.02:227][286]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.53.02:227][286]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.53.02:227][286]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.53.02:227][286]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.53.02:227][286]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.53.02:227][286]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.53.02:227][286]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.53.02:494][299]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.02.07-21.53.02:735][308]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.02.07-21.53.03:507][386]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.02.07-21.53.03:507][386]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2021.02.07-21.53.03:507][386]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.02.07-21.53.03:507][386]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.53.03:507][386]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.53.03:507][386]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.53.07:669][858]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.53.07:676][858]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.02.07-21.53.07:707][859]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.53.07:707][859]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.53.07:707][859]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.53.07:707][859]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.53.07:707][859]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.53.07:707][859]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.53.07:707][859]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.53.07:707][859]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.53.07:707][859]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.53.07:707][859]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.53.07:707][859]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.53.07:707][859]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.53.07:926][870]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2021.02.07-21.53.08:219][879]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2021.02.07-21.53.08:274][881]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.53.08:320][883]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2021.02.07-21.53.08:342][884]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.02.07-21.53.08:363][885]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.02.07-21.53.08:998][947]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.02.07-21.53.08:998][947]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2021.02.07-21.53.08:998][947]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.02.07-21.53.08:998][947]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.53.08:998][947]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.53.08:998][947]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.53.13:952][473]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.53.13:961][473]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.53.13:990][474]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.53.13:990][474]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.53.13:990][474]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.53.13:990][474]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.53.13:990][474]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.53.13:990][474]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.53.13:990][474]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.53.13:990][474]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.53.13:990][474]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.53.13:990][474]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.53.13:990][474]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.53.13:990][474]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.53.14:254][487]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.02.07-21.53.14:510][495]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.02.07-21.53.14:820][514]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.02.07-21.53.14:820][514]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2021.02.07-21.53.14:821][514]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.02.07-21.53.14:821][514]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.53.14:821][514]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.53.14:821][514]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.53.35:230][634]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.53.35:239][634]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.53.35:256][635]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.53.35:256][635]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.53.35:256][635]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.53.35:256][635]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.53.35:256][635]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.53.35:256][635]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.53.35:256][635]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.53.35:256][635]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.53.35:256][635]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.53.35:256][635]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.53.35:256][635]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.53.35:256][635]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.53.35:803][665]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.02.07-21.53.35:977][672]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.02.07-21.53.36:323][692]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.02.07-21.53.36:323][692]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2021.02.07-21.53.36:323][692]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.02.07-21.53.36:323][692]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.53.36:323][692]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.53.36:323][692]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.53.41:050][155]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_0, compiling. 
+[2021.02.07-21.53.41:065][157]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.02.07-21.53.41:065][157]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2021.02.07-21.53.41:065][157]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.02.07-21.53.41:065][157]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.02.07-21.53.41:695][207]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_1, compiling. 
+[2021.02.07-21.53.41:709][209]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.02.07-21.53.41:709][209]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2021.02.07-21.53.41:709][209]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.02.07-21.53.41:709][209]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.02.07-21.53.42:530][277]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_2, compiling. 
+[2021.02.07-21.53.42:545][279]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.02.07-21.53.42:545][279]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2021.02.07-21.53.42:545][279]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.02.07-21.53.42:545][279]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.02.07-21.54.01:563][221]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.54.01:579][221]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.54.01:579][221]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.54.01:579][221]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.54.01:579][221]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.54.01:579][221]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.54.01:579][221]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.54.01:579][221]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.54.01:579][221]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.54.01:579][221]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.54.01:579][221]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.54.01:579][221]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.54.01:579][221]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.54.01:598][221]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_0, compiling. 
+[2021.02.07-21.54.01:601][221]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_1, compiling. 
+[2021.02.07-21.54.01:603][221]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_2, compiling. 
+[2021.02.07-21.54.01:821][231]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.54.02:181][244]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.54.02:241][246]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.54.02:291][248]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.54.02:291][248]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2021.02.07-21.54.02:317][249]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 9
+[2021.02.07-21.54.02:415][253]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2021.02.07-21.54.02:512][257]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 7
+[2021.02.07-21.54.02:512][257]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.54.02:562][259]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2021.02.07-21.54.02:563][259]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.02.07-21.54.02:588][260]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2021.02.07-21.54.02:618][261]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2021.02.07-21.54.02:645][262]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2021.02.07-21.54.02:683][263]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.02.07-21.54.02:683][263]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2021.02.07-21.54.02:683][263]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.02.07-21.54.02:683][263]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.54.02:684][263]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.54.02:684][263]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.54.04:133][382]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.54.04:145][382]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.54.04:162][383]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.54.04:162][383]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.54.04:162][383]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.54.04:162][383]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.54.04:162][383]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.54.04:162][383]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.54.04:162][383]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.54.04:162][383]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.54.04:162][383]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.54.04:162][383]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.54.04:162][383]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.54.04:162][383]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.54.04:438][397]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.02.07-21.54.04:721][406]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.02.07-21.54.05:068][424]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.02.07-21.54.05:068][424]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2021.02.07-21.54.05:068][424]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.02.07-21.54.05:068][424]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.54.05:068][424]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.54.05:068][424]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.54.06:982][604]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.54.06:991][604]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.54.07:012][605]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.54.07:012][605]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.54.07:012][605]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.54.07:012][605]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.54.07:012][605]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.54.07:012][605]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.54.07:012][605]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.54.07:012][605]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.54.07:012][605]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.54.07:012][605]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.54.07:012][605]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.54.07:012][605]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.54.07:298][619]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.02.07-21.54.07:560][627]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.02.07-21.54.07:896][645]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.02.07-21.54.07:896][645]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2021.02.07-21.54.07:896][645]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.02.07-21.54.07:896][645]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.54.07:896][645]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.54.07:896][645]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.54.08:741][729]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.54.08:750][729]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.54.08:767][730]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.54.08:767][730]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.54.08:767][730]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.54.08:767][730]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.54.08:767][730]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.54.08:767][730]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.54.08:767][730]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.54.08:767][730]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.54.08:767][730]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.54.08:767][730]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.54.08:767][730]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.54.08:767][730]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.54.09:095][746]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.02.07-21.54.09:327][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.02.07-21.54.09:679][772]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.02.07-21.54.09:679][772]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2021.02.07-21.54.09:679][772]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.02.07-21.54.09:679][772]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.54.09:679][772]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.54.09:679][772]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.54.10:705][872]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.54.10:741][873]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.54.10:741][873]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.54.10:741][873]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.54.10:741][873]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.54.10:741][873]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.54.10:741][873]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.54.10:741][873]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.54.10:741][873]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.54.10:741][873]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.54.10:741][873]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.54.10:741][873]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.54.10:741][873]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.54.10:996][885]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.02.07-21.54.11:254][893]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.02.07-21.54.11:782][936]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.02.07-21.54.11:782][936]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2021.02.07-21.54.11:782][936]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.02.07-21.54.11:782][936]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.54.11:782][936]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.54.11:782][936]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.54.13:156][ 68]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.54.13:177][ 69]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.54.13:177][ 69]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.54.13:178][ 69]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.54.13:178][ 69]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.54.13:178][ 69]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.54.13:178][ 69]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.54.13:178][ 69]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.54.13:178][ 69]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.54.13:178][ 69]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.54.13:178][ 69]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.54.13:178][ 69]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.54.13:178][ 69]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.54.13:480][ 82]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.02.07-21.54.13:732][ 89]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.02.07-21.54.14:706][183]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.02.07-21.54.14:706][183]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2021.02.07-21.54.14:706][183]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.02.07-21.54.14:706][183]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.54.14:706][183]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.54.14:706][183]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.54.15:599][266]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.54.15:616][267]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.54.15:616][267]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.54.15:616][267]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.54.15:616][267]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.54.15:616][267]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.54.15:616][267]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.54.15:616][267]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.54.15:616][267]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.54.15:616][267]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.54.15:616][267]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.54.15:617][267]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.54.15:617][267]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.54.15:865][280]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.02.07-21.54.16:167][289]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.02.07-21.54.16:827][348]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.54.16:848][349]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.54.16:848][349]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.54.16:848][349]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.54.16:848][349]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.54.16:848][349]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.54.16:848][349]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.54.16:848][349]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.54.16:848][349]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.54.16:848][349]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.54.16:848][349]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.54.16:848][349]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.54.16:848][349]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.54.17:142][362]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.02.07-21.54.17:390][370]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.02.07-21.54.18:292][463]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.02.07-21.54.18:292][463]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2021.02.07-21.54.18:292][463]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.02.07-21.54.18:292][463]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.54.18:292][463]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.54.18:292][463]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.54.21:142][736]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2021.02.07-21.54.21:144][736]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2021.02.07-21.54.21:147][736]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_1, compiling. 
+[2021.02.07-21.54.21:149][736]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_0, compiling. 
+[2021.02.07-21.54.21:152][736]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_1, compiling. 
+[2021.02.07-21.54.21:154][736]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 16
+[2021.02.07-21.54.21:154][736]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 15
+[2021.02.07-21.54.21:154][736]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 14
+[2021.02.07-21.54.21:154][736]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 13
+[2021.02.07-21.54.21:154][736]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 12
+[2021.02.07-21.54.21:154][736]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 11
+[2021.02.07-21.54.21:154][736]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2021.02.07-21.54.21:154][736]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2021.02.07-21.54.21:154][736]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2021.02.07-21.54.21:154][736]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2021.02.07-21.54.21:154][736]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2021.02.07-21.54.21:154][736]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2021.02.07-21.54.21:154][736]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2021.02.07-21.54.21:157][736]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_1, compiling. 
+[2021.02.07-21.54.21:159][736]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionOneMinus_0, compiling. 
+[2021.02.07-21.54.21:162][736]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionOneMinus_1, compiling. 
+[2021.02.07-21.54.21:164][736]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_0, compiling. 
+[2021.02.07-21.54.21:167][736]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_1, compiling. 
+[2021.02.07-21.54.21:169][736]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_2, compiling. 
+[2021.02.07-21.54.21:172][736]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_0, compiling. 
+[2021.02.07-21.54.21:175][736]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_1, compiling. 
+[2021.02.07-21.54.21:177][736]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_2, compiling. 
+[2021.02.07-21.54.21:683][752]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 48
+[2021.02.07-21.54.21:709][753]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 47
+[2021.02.07-21.54.21:709][753]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 46
+[2021.02.07-21.54.21:732][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 45
+[2021.02.07-21.54.21:752][755]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 44
+[2021.02.07-21.54.21:752][755]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 43
+[2021.02.07-21.54.21:772][756]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 42
+[2021.02.07-21.54.21:772][756]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 41
+[2021.02.07-21.54.21:792][757]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 40
+[2021.02.07-21.54.21:792][757]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 39
+[2021.02.07-21.54.21:815][758]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 38
+[2021.02.07-21.54.21:815][758]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 37
+[2021.02.07-21.54.22:122][766]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 36
+[2021.02.07-21.54.22:123][766]LogMaterialEditor: Saving and Compiling material GlowEnhancedV2
+[2021.02.07-21.54.22:733][766]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 35
+[2021.02.07-21.54.22:733][766]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 34
+[2021.02.07-21.54.22:733][766]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 33
+[2021.02.07-21.54.22:733][766]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 32
+[2021.02.07-21.54.22:733][766]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 31
+[2021.02.07-21.54.22:733][766]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 30
+[2021.02.07-21.54.22:733][766]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 29
+[2021.02.07-21.54.22:733][766]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 28
+[2021.02.07-21.54.22:733][766]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 27
+[2021.02.07-21.54.22:733][766]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 26
+[2021.02.07-21.54.22:733][766]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 25
+[2021.02.07-21.54.22:733][766]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 24
+[2021.02.07-21.54.22:747][766]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.54.22:784][766]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 23
+[2021.02.07-21.54.22:785][766]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 22
+[2021.02.07-21.54.22:785][766]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 21
+[2021.02.07-21.54.22:803][766]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 34
+[2021.02.07-21.54.22:810][766]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 33
+[2021.02.07-21.54.22:829][766]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 32
+[2021.02.07-21.54.22:836][766]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.54.22:880][766]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 31
+[2021.02.07-21.54.22:880][766]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 30
+[2021.02.07-21.54.22:880][766]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 29
+[2021.02.07-21.54.22:904][766]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 59
+[2021.02.07-21.54.22:904][766]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 58
+[2021.02.07-21.54.22:904][766]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 57
+[2021.02.07-21.54.22:905][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.02.07-21.54.22:914][766]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.07-21.54.23:479][766]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 58
+[2021.02.07-21.54.23:479][766]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 57
+[2021.02.07-21.54.23:479][766]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 56
+[2021.02.07-21.54.23:479][766]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 55
+[2021.02.07-21.54.23:479][766]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 54
+[2021.02.07-21.54.23:479][766]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 53
+[2021.02.07-21.54.23:479][766]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 52
+[2021.02.07-21.54.23:479][766]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 51
+[2021.02.07-21.54.23:479][766]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 50
+[2021.02.07-21.54.23:479][766]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 49
+[2021.02.07-21.54.23:479][766]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 48
+[2021.02.07-21.54.23:479][766]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 47
+[2021.02.07-21.54.24:038][766]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 46
+[2021.02.07-21.54.24:038][766]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 45
+[2021.02.07-21.54.24:038][766]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 44
+[2021.02.07-21.54.24:038][766]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 43
+[2021.02.07-21.54.24:038][766]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 42
+[2021.02.07-21.54.24:038][766]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 41
+[2021.02.07-21.54.24:038][766]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 40
+[2021.02.07-21.54.24:038][766]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 39
+[2021.02.07-21.54.24:038][766]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 38
+[2021.02.07-21.54.24:038][766]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 37
+[2021.02.07-21.54.24:038][766]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 36
+[2021.02.07-21.54.24:038][766]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 35
+[2021.02.07-21.54.24:578][766]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 34
+[2021.02.07-21.54.24:578][766]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 33
+[2021.02.07-21.54.24:579][766]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 32
+[2021.02.07-21.54.24:579][766]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 31
+[2021.02.07-21.54.24:579][766]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 28
+[2021.02.07-21.54.24:579][766]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 25
+[2021.02.07-21.54.24:579][766]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 22
+[2021.02.07-21.54.24:579][766]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 20
+[2021.02.07-21.54.24:579][766]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 18
+[2021.02.07-21.54.24:579][766]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 16
+[2021.02.07-21.54.24:579][766]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 14
+[2021.02.07-21.54.24:579][766]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 12
+[2021.02.07-21.54.24:579][766]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2021.02.07-21.54.24:579][766]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.54.24:584][766]TextureStreamingBuild: Display: Compiling optional shaders took 1.674 seconds.
+[2021.02.07-21.54.24:597][766]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2021.02.07-21.54.24:597][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.02.07-21.54.25:254][766]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2021.02.07-21.54.25:254][766]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2021.02.07-21.54.25:254][766]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2021.02.07-21.54.25:813][766]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2021.02.07-21.54.25:813][766]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2021.02.07-21.54.25:813][766]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2021.02.07-21.54.25:813][766]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2021.02.07-21.54.25:914][766]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Saved/GlowEnhancedV2E834FE3343E7880BCB20639489167A83.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Materials/GlowEnhancedV2.uasset'
+[2021.02.07-21.54.25:941][766]AssetCheck: New page: Asset Save: GlowEnhancedV2
+[2021.02.07-21.54.25:941][766]LogContentValidation: Display: Validating Material /Game/LenhartChris/Materials/GlowEnhancedV2.GlowEnhancedV2
+[2021.02.07-21.54.25:943][766]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.02.07-21.54.25:943][766]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2021.02.07-21.54.25:943][766]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.02.07-21.54.25:943][766]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.54.25:943][766]MaterialEditorStats: Texture samplers: 3/16
+[2021.02.07-21.54.25:943][766]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.54.33:876][556]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.54.33:894][556]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.54.33:894][556]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.54.33:894][556]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.54.33:894][556]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.54.33:894][556]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.54.33:894][556]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.54.33:894][556]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.54.33:894][556]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.54.33:894][556]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.54.33:894][556]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.54.33:894][556]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.54.33:894][556]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.54.33:895][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2021.02.07-21.54.33:899][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2021.02.07-21.54.33:902][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_1, compiling. 
+[2021.02.07-21.54.33:904][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_0, compiling. 
+[2021.02.07-21.54.33:907][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_1, compiling. 
+[2021.02.07-21.54.33:909][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2021.02.07-21.54.33:912][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_1, compiling. 
+[2021.02.07-21.54.33:914][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionOneMinus_0, compiling. 
+[2021.02.07-21.54.33:917][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionOneMinus_1, compiling. 
+[2021.02.07-21.54.33:919][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_0, compiling. 
+[2021.02.07-21.54.33:922][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_1, compiling. 
+[2021.02.07-21.54.33:925][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_2, compiling. 
+[2021.02.07-21.54.33:928][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_0, compiling. 
+[2021.02.07-21.54.33:930][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_1, compiling. 
+[2021.02.07-21.54.33:934][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_2, compiling. 
+[2021.02.07-21.54.33:938][556]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.54.33:958][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2021.02.07-21.54.33:961][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2021.02.07-21.54.33:964][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_1, compiling. 
+[2021.02.07-21.54.33:967][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_0, compiling. 
+[2021.02.07-21.54.33:971][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_1, compiling. 
+[2021.02.07-21.54.33:975][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2021.02.07-21.54.33:979][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_1, compiling. 
+[2021.02.07-21.54.33:983][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionOneMinus_0, compiling. 
+[2021.02.07-21.54.33:987][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionOneMinus_1, compiling. 
+[2021.02.07-21.54.33:990][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_0, compiling. 
+[2021.02.07-21.54.33:994][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_1, compiling. 
+[2021.02.07-21.54.33:998][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_2, compiling. 
+[2021.02.07-21.54.34:002][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_0, compiling. 
+[2021.02.07-21.54.34:006][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_1, compiling. 
+[2021.02.07-21.54.34:010][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_2, compiling. 
+[2021.02.07-21.54.34:130][559]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 74
+[2021.02.07-21.54.34:458][570]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 73
+[2021.02.07-21.54.34:459][570]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 72
+[2021.02.07-21.54.34:542][574]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 71
+[2021.02.07-21.54.34:559][575]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 70
+[2021.02.07-21.54.34:574][576]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 69
+[2021.02.07-21.54.34:593][577]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 68
+[2021.02.07-21.54.34:628][579]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 67
+[2021.02.07-21.54.34:645][580]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 66
+[2021.02.07-21.54.34:702][583]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 65
+[2021.02.07-21.54.34:702][583]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 64
+[2021.02.07-21.54.34:702][583]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 63
+[2021.02.07-21.54.34:724][584]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 62
+[2021.02.07-21.54.35:065][596]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 61
+[2021.02.07-21.54.35:094][597]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 60
+[2021.02.07-21.54.35:145][599]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 59
+[2021.02.07-21.54.35:215][602]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 58
+[2021.02.07-21.54.35:215][602]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 57
+[2021.02.07-21.54.35:243][603]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 56
+[2021.02.07-21.54.35:287][605]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 55
+[2021.02.07-21.54.35:366][608]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 54
+[2021.02.07-21.54.35:392][609]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 53
+[2021.02.07-21.54.35:453][611]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 52
+[2021.02.07-21.54.35:454][611]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 51
+[2021.02.07-21.54.35:481][612]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 50
+[2021.02.07-21.54.35:509][613]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 49
+[2021.02.07-21.54.35:546][614]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 48
+[2021.02.07-21.54.35:554][614]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.02.07-21.54.35:554][614]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2021.02.07-21.54.35:554][614]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.02.07-21.54.35:554][614]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.54.35:554][614]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.54.35:554][614]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.54.35:699][619]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 47
+[2021.02.07-21.54.35:699][619]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 46
+[2021.02.07-21.54.35:734][620]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 45
+[2021.02.07-21.54.35:790][621]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 44
+[2021.02.07-21.54.35:793][621]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.54.35:822][621]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2021.02.07-21.54.35:826][621]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2021.02.07-21.54.35:831][621]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_1, compiling. 
+[2021.02.07-21.54.35:835][621]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_0, compiling. 
+[2021.02.07-21.54.35:839][621]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 26
+[2021.02.07-21.54.35:839][621]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_1, compiling. 
+[2021.02.07-21.54.35:844][621]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2021.02.07-21.54.35:848][621]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_1, compiling. 
+[2021.02.07-21.54.35:853][621]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionOneMinus_0, compiling. 
+[2021.02.07-21.54.35:857][621]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionOneMinus_1, compiling. 
+[2021.02.07-21.54.35:861][621]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_0, compiling. 
+[2021.02.07-21.54.35:865][621]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_1, compiling. 
+[2021.02.07-21.54.35:870][621]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_2, compiling. 
+[2021.02.07-21.54.35:876][621]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 57
+[2021.02.07-21.54.35:876][621]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_0, compiling. 
+[2021.02.07-21.54.35:881][621]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_1, compiling. 
+[2021.02.07-21.54.35:886][621]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_2, compiling. 
+[2021.02.07-21.54.35:947][622]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 72
+[2021.02.07-21.54.35:947][622]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 71
+[2021.02.07-21.54.35:998][624]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 70
+[2021.02.07-21.54.36:024][625]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 69
+[2021.02.07-21.54.36:024][625]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 68
+[2021.02.07-21.54.36:052][626]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 67
+[2021.02.07-21.54.36:159][630]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 66
+[2021.02.07-21.54.36:209][632]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 65
+[2021.02.07-21.54.36:264][634]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 64
+[2021.02.07-21.54.36:291][635]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 63
+[2021.02.07-21.54.36:320][636]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 62
+[2021.02.07-21.54.36:502][643]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 61
+[2021.02.07-21.54.36:608][647]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 60
+[2021.02.07-21.54.36:608][647]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 59
+[2021.02.07-21.54.36:662][649]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 58
+[2021.02.07-21.54.36:687][650]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 57
+[2021.02.07-21.54.36:709][651]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 56
+[2021.02.07-21.54.36:733][652]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 55
+[2021.02.07-21.54.36:812][655]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 54
+[2021.02.07-21.54.36:891][658]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 53
+[2021.02.07-21.54.36:946][660]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 52
+[2021.02.07-21.54.36:946][660]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 51
+[2021.02.07-21.54.36:946][660]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 50
+[2021.02.07-21.54.36:999][662]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 49
+[2021.02.07-21.54.37:040][663]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.02.07-21.54.37:040][663]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2021.02.07-21.54.37:040][663]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.02.07-21.54.37:040][663]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.54.37:040][663]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.54.37:040][663]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.54.37:067][664]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 48
+[2021.02.07-21.54.37:150][667]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 47
+[2021.02.07-21.54.37:182][668]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 46
+[2021.02.07-21.54.37:182][668]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 45
+[2021.02.07-21.54.37:213][669]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 44
+[2021.02.07-21.54.37:278][671]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 43
+[2021.02.07-21.54.37:374][673]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 42
+[2021.02.07-21.54.37:412][675]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 41
+[2021.02.07-21.54.37:441][676]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 40
+[2021.02.07-21.54.37:491][678]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 39
+[2021.02.07-21.54.37:516][679]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 38
+[2021.02.07-21.54.37:516][679]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 37
+[2021.02.07-21.54.37:544][680]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 36
+[2021.02.07-21.54.37:645][683]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 35
+[2021.02.07-21.54.37:697][685]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 34
+[2021.02.07-21.54.37:697][685]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 33
+[2021.02.07-21.54.37:723][686]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 32
+[2021.02.07-21.54.37:828][690]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 31
+[2021.02.07-21.54.37:852][691]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 30
+[2021.02.07-21.54.37:882][692]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.54.37:901][692]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 43
+[2021.02.07-21.54.37:908][692]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2021.02.07-21.54.37:914][692]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2021.02.07-21.54.37:920][692]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 22
+[2021.02.07-21.54.37:920][692]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_1, compiling. 
+[2021.02.07-21.54.37:924][692]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_0, compiling. 
+[2021.02.07-21.54.37:929][692]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_1, compiling. 
+[2021.02.07-21.54.37:934][692]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2021.02.07-21.54.37:938][692]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_1, compiling. 
+[2021.02.07-21.54.37:943][692]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionOneMinus_0, compiling. 
+[2021.02.07-21.54.37:947][692]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionOneMinus_1, compiling. 
+[2021.02.07-21.54.37:951][692]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_0, compiling. 
+[2021.02.07-21.54.37:956][692]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_1, compiling. 
+[2021.02.07-21.54.37:961][692]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_2, compiling. 
+[2021.02.07-21.54.37:966][692]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_0, compiling. 
+[2021.02.07-21.54.37:970][692]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_1, compiling. 
+[2021.02.07-21.54.37:975][692]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_2, compiling. 
+[2021.02.07-21.54.38:012][693]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 73
+[2021.02.07-21.54.38:012][693]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 72
+[2021.02.07-21.54.38:040][694]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 71
+[2021.02.07-21.54.38:082][695]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 70
+[2021.02.07-21.54.38:161][698]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 69
+[2021.02.07-21.54.38:188][699]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 68
+[2021.02.07-21.54.38:188][699]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 67
+[2021.02.07-21.54.38:215][700]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 66
+[2021.02.07-21.54.38:245][701]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 65
+[2021.02.07-21.54.38:373][706]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 64
+[2021.02.07-21.54.38:373][706]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 63
+[2021.02.07-21.54.38:400][707]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 62
+[2021.02.07-21.54.38:628][714]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 61
+[2021.02.07-21.54.38:676][716]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 60
+[2021.02.07-21.54.38:676][716]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 59
+[2021.02.07-21.54.38:698][717]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 58
+[2021.02.07-21.54.38:762][720]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 57
+[2021.02.07-21.54.38:799][722]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 56
+[2021.02.07-21.54.38:821][723]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 55
+[2021.02.07-21.54.38:888][726]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 54
+[2021.02.07-21.54.38:955][729]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 53
+[2021.02.07-21.54.38:955][729]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 52
+[2021.02.07-21.54.39:004][731]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 51
+[2021.02.07-21.54.39:026][732]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 50
+[2021.02.07-21.54.39:052][732]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 49
+[2021.02.07-21.54.39:073][733]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 48
+[2021.02.07-21.54.39:159][736]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 47
+[2021.02.07-21.54.39:182][737]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 46
+[2021.02.07-21.54.39:207][738]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 45
+[2021.02.07-21.54.39:236][739]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 44
+[2021.02.07-21.54.39:300][741]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.54.39:329][741]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2021.02.07-21.54.39:334][741]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 14
+[2021.02.07-21.54.39:335][741]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2021.02.07-21.54.39:339][741]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_1, compiling. 
+[2021.02.07-21.54.39:343][741]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_0, compiling. 
+[2021.02.07-21.54.39:348][741]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_1, compiling. 
+[2021.02.07-21.54.39:352][741]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2021.02.07-21.54.39:357][741]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_1, compiling. 
+[2021.02.07-21.54.39:361][741]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionOneMinus_0, compiling. 
+[2021.02.07-21.54.39:366][741]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionOneMinus_1, compiling. 
+[2021.02.07-21.54.39:370][741]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_0, compiling. 
+[2021.02.07-21.54.39:375][741]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_1, compiling. 
+[2021.02.07-21.54.39:380][741]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_2, compiling. 
+[2021.02.07-21.54.39:385][741]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_0, compiling. 
+[2021.02.07-21.54.39:390][741]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_1, compiling. 
+[2021.02.07-21.54.39:396][741]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_2, compiling. 
+[2021.02.07-21.54.39:406][741]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 73
+[2021.02.07-21.54.39:440][742]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 72
+[2021.02.07-21.54.39:440][742]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 71
+[2021.02.07-21.54.39:558][746]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 70
+[2021.02.07-21.54.39:558][746]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 69
+[2021.02.07-21.54.39:558][746]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 68
+[2021.02.07-21.54.39:582][747]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 67
+[2021.02.07-21.54.39:676][751]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 66
+[2021.02.07-21.54.39:701][752]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 65
+[2021.02.07-21.54.39:702][752]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 64
+[2021.02.07-21.54.39:725][753]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 63
+[2021.02.07-21.54.39:725][753]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 62
+[2021.02.07-21.54.40:049][764]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 61
+[2021.02.07-21.54.40:116][767]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 60
+[2021.02.07-21.54.40:117][767]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 59
+[2021.02.07-21.54.40:178][769]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 58
+[2021.02.07-21.54.40:185][770]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 57
+[2021.02.07-21.54.40:204][771]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 56
+[2021.02.07-21.54.40:204][771]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 55
+[2021.02.07-21.54.40:333][778]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 54
+[2021.02.07-21.54.40:358][779]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 53
+[2021.02.07-21.54.40:381][780]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 52
+[2021.02.07-21.54.40:381][780]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 51
+[2021.02.07-21.54.40:389][780]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.54.40:400][780]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 50
+[2021.02.07-21.54.40:416][780]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 14
+[2021.02.07-21.54.40:416][780]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2021.02.07-21.54.40:421][780]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2021.02.07-21.54.40:425][780]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_1, compiling. 
+[2021.02.07-21.54.40:430][780]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_0, compiling. 
+[2021.02.07-21.54.40:434][780]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_1, compiling. 
+[2021.02.07-21.54.40:438][780]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2021.02.07-21.54.40:442][780]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_1, compiling. 
+[2021.02.07-21.54.40:446][780]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionOneMinus_0, compiling. 
+[2021.02.07-21.54.40:451][780]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionOneMinus_1, compiling. 
+[2021.02.07-21.54.40:455][780]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_0, compiling. 
+[2021.02.07-21.54.40:459][780]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_1, compiling. 
+[2021.02.07-21.54.40:464][780]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_2, compiling. 
+[2021.02.07-21.54.40:468][780]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_0, compiling. 
+[2021.02.07-21.54.40:473][780]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_1, compiling. 
+[2021.02.07-21.54.40:477][780]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_2, compiling. 
+[2021.02.07-21.54.40:517][781]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 73
+[2021.02.07-21.54.40:608][784]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 72
+[2021.02.07-21.54.40:635][785]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 71
+[2021.02.07-21.54.40:636][785]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 70
+[2021.02.07-21.54.40:678][787]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 69
+[2021.02.07-21.54.40:701][788]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 68
+[2021.02.07-21.54.40:747][790]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 67
+[2021.02.07-21.54.40:789][792]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 66
+[2021.02.07-21.54.40:809][793]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 65
+[2021.02.07-21.54.40:829][794]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 64
+[2021.02.07-21.54.40:874][796]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 63
+[2021.02.07-21.54.40:894][797]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 62
+[2021.02.07-21.54.41:141][806]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 61
+[2021.02.07-21.54.41:164][807]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 60
+[2021.02.07-21.54.41:212][809]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 59
+[2021.02.07-21.54.41:233][810]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 58
+[2021.02.07-21.54.41:302][813]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 57
+[2021.02.07-21.54.41:302][813]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 56
+[2021.02.07-21.54.41:324][814]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 55
+[2021.02.07-21.54.41:463][819]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 54
+[2021.02.07-21.54.41:528][821]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 53
+[2021.02.07-21.54.41:528][821]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 52
+[2021.02.07-21.54.41:558][822]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 51
+[2021.02.07-21.54.41:558][822]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 50
+[2021.02.07-21.54.41:587][823]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 49
+[2021.02.07-21.54.41:626][824]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 48
+[2021.02.07-21.54.41:628][824]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.02.07-21.54.41:628][824]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2021.02.07-21.54.41:628][824]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.02.07-21.54.41:628][824]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.54.41:628][824]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.54.41:628][824]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.54.41:785][829]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 47
+[2021.02.07-21.54.41:786][829]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 46
+[2021.02.07-21.54.41:827][830]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 45
+[2021.02.07-21.54.41:828][830]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 44
+[2021.02.07-21.54.41:918][833]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 43
+[2021.02.07-21.54.41:970][835]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 42
+[2021.02.07-21.54.42:030][837]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 41
+[2021.02.07-21.54.42:030][837]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 40
+[2021.02.07-21.54.42:078][837]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 39
+[2021.02.07-21.54.42:078][837]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 38
+[2021.02.07-21.54.42:117][839]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 37
+[2021.02.07-21.54.42:142][840]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 36
+[2021.02.07-21.54.42:264][844]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 35
+[2021.02.07-21.54.42:296][845]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 34
+[2021.02.07-21.54.42:329][846]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 33
+[2021.02.07-21.54.42:360][847]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 32
+[2021.02.07-21.54.42:456][850]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 31
+[2021.02.07-21.54.42:511][852]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 30
+[2021.02.07-21.54.42:512][852]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 29
+[2021.02.07-21.54.42:537][853]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 28
+[2021.02.07-21.54.42:572][853]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 27
+[2021.02.07-21.54.42:611][854]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 26
+[2021.02.07-21.54.42:613][854]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 25
+[2021.02.07-21.54.42:622][855]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 24
+[2021.02.07-21.54.42:765][859]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 23
+[2021.02.07-21.54.42:793][860]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 22
+[2021.02.07-21.54.42:826][861]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 21
+[2021.02.07-21.54.42:826][861]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 20
+[2021.02.07-21.54.42:980][867]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 19
+[2021.02.07-21.54.43:011][868]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 18
+[2021.02.07-21.54.43:011][868]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 17
+[2021.02.07-21.54.43:036][869]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 16
+[2021.02.07-21.54.43:060][870]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 15
+[2021.02.07-21.54.43:085][871]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.54.43:126][873]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2021.02.07-21.54.43:126][873]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 12
+[2021.02.07-21.54.43:237][876]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2021.02.07-21.54.43:262][877]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2021.02.07-21.54.43:262][877]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 9
+[2021.02.07-21.54.43:291][878]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.02.07-21.54.43:454][884]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2021.02.07-21.54.43:486][885]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2021.02.07-21.54.43:519][886]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2021.02.07-21.54.43:519][886]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.02.07-21.54.43:588][889]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 3
+[2021.02.07-21.54.43:608][890]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2021.02.07-21.54.43:608][890]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.02.07-21.54.43:614][890]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.54.43:625][890]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.54.43:640][890]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2021.02.07-21.54.43:645][890]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2021.02.07-21.54.43:650][890]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_1, compiling. 
+[2021.02.07-21.54.43:655][890]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_0, compiling. 
+[2021.02.07-21.54.43:659][890]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_1, compiling. 
+[2021.02.07-21.54.43:664][890]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2021.02.07-21.54.43:669][890]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_1, compiling. 
+[2021.02.07-21.54.43:673][890]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionOneMinus_0, compiling. 
+[2021.02.07-21.54.43:677][890]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionOneMinus_1, compiling. 
+[2021.02.07-21.54.43:681][890]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_0, compiling. 
+[2021.02.07-21.54.43:685][890]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_1, compiling. 
+[2021.02.07-21.54.43:689][890]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_2, compiling. 
+[2021.02.07-21.54.43:693][890]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_0, compiling. 
+[2021.02.07-21.54.43:698][890]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_1, compiling. 
+[2021.02.07-21.54.43:703][890]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 65
+[2021.02.07-21.54.43:703][890]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_2, compiling. 
+[2021.02.07-21.54.43:746][891]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 72
+[2021.02.07-21.54.43:746][891]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 71
+[2021.02.07-21.54.43:776][892]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 70
+[2021.02.07-21.54.43:955][898]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 69
+[2021.02.07-21.54.43:997][899]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 68
+[2021.02.07-21.54.43:997][899]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 67
+[2021.02.07-21.54.43:997][899]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 66
+[2021.02.07-21.54.44:069][901]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 65
+[2021.02.07-21.54.44:095][902]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 64
+[2021.02.07-21.54.44:132][903]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 63
+[2021.02.07-21.54.44:165][904]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 62
+[2021.02.07-21.54.44:378][911]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 61
+[2021.02.07-21.54.44:406][912]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 60
+[2021.02.07-21.54.44:432][913]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 59
+[2021.02.07-21.54.44:460][914]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 58
+[2021.02.07-21.54.44:510][916]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 57
+[2021.02.07-21.54.44:561][918]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 56
+[2021.02.07-21.54.44:644][921]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 55
+[2021.02.07-21.54.44:702][923]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 54
+[2021.02.07-21.54.44:811][927]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 53
+[2021.02.07-21.54.44:811][927]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 52
+[2021.02.07-21.54.44:838][928]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 51
+[2021.02.07-21.54.44:838][928]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 50
+[2021.02.07-21.54.44:876][929]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 49
+[2021.02.07-21.54.44:876][929]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 48
+[2021.02.07-21.54.44:882][929]MaterialEditorStats: Base pass shader: 140 instructions
+[2021.02.07-21.54.44:882][929]MaterialEditorStats: Base pass shader with Surface Lightmap: 167 instructions
+[2021.02.07-21.54.44:882][929]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 214 instructions
+[2021.02.07-21.54.44:882][929]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.54.44:882][929]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.54.44:882][929]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.54.44:963][932]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 47
+[2021.02.07-21.54.44:963][932]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 46
+[2021.02.07-21.54.44:994][933]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 45
+[2021.02.07-21.54.44:994][933]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 44
+[2021.02.07-21.54.45:144][936]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 43
+[2021.02.07-21.54.45:275][940]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 42
+[2021.02.07-21.54.45:275][940]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 41
+[2021.02.07-21.54.45:309][941]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 40
+[2021.02.07-21.54.45:384][944]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 39
+[2021.02.07-21.54.45:414][945]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 38
+[2021.02.07-21.54.45:414][945]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 37
+[2021.02.07-21.54.45:440][946]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 36
+[2021.02.07-21.54.45:494][948]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 35
+[2021.02.07-21.54.45:520][949]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 34
+[2021.02.07-21.54.45:528][949]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 33
+[2021.02.07-21.54.45:544][949]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 32
+[2021.02.07-21.54.45:692][953]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 31
+[2021.02.07-21.54.45:795][956]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 30
+[2021.02.07-21.54.45:795][956]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 29
+[2021.02.07-21.54.45:857][958]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 28
+[2021.02.07-21.54.45:939][961]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 27
+[2021.02.07-21.54.45:968][962]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 26
+[2021.02.07-21.54.45:995][963]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 25
+[2021.02.07-21.54.45:995][963]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 24
+[2021.02.07-21.54.46:053][965]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 23
+[2021.02.07-21.54.46:053][965]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 22
+[2021.02.07-21.54.46:080][966]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 21
+[2021.02.07-21.54.46:110][967]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 20
+[2021.02.07-21.54.46:270][972]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 19
+[2021.02.07-21.54.46:304][973]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 18
+[2021.02.07-21.54.46:331][974]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 17
+[2021.02.07-21.54.46:331][974]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 16
+[2021.02.07-21.54.46:337][974]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.54.46:485][979]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 29
+[2021.02.07-21.54.46:485][979]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 28
+[2021.02.07-21.54.46:514][980]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 27
+[2021.02.07-21.54.46:573][982]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 26
+[2021.02.07-21.54.46:573][982]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 25
+[2021.02.07-21.54.46:573][982]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 24
+[2021.02.07-21.54.46:600][983]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 23
+[2021.02.07-21.54.46:624][984]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 22
+[2021.02.07-21.54.46:795][989]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2021.02.07-21.54.46:796][989]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 20
+[2021.02.07-21.54.46:839][990]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 19
+[2021.02.07-21.54.46:839][990]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2021.02.07-21.54.46:984][995]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 17
+[2021.02.07-21.54.47:050][997]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 16
+[2021.02.07-21.54.47:050][997]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 15
+[2021.02.07-21.54.47:067][997]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 14
+[2021.02.07-21.54.47:098][998]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 13
+[2021.02.07-21.54.47:130][999]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.54.47:142][999]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2021.02.07-21.54.47:166][  0]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 10
+[2021.02.07-21.54.47:279][  4]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2021.02.07-21.54.47:306][  5]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.54.47:335][  6]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 7
+[2021.02.07-21.54.47:335][  6]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2021.02.07-21.54.47:425][  9]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.02.07-21.54.47:501][ 12]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2021.02.07-21.54.47:526][ 13]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2021.02.07-21.54.47:555][ 14]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2021.02.07-21.54.47:786][ 22]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.02.07-21.54.48:117][ 40]MaterialEditorStats: Base pass shader: 140 instructions
+[2021.02.07-21.54.48:117][ 40]MaterialEditorStats: Base pass shader with Surface Lightmap: 167 instructions
+[2021.02.07-21.54.48:117][ 40]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 214 instructions
+[2021.02.07-21.54.48:117][ 40]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.54.48:117][ 40]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.54.48:117][ 40]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.54.54:519][661]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.54.54:529][661]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.54.54:530][661]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.54.54:530][661]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.54.54:530][661]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.54.54:530][661]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.54.54:530][661]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.54.54:530][661]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.54.54:530][661]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.54.54:530][661]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.54.54:530][661]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.54.54:530][661]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.54.54:530][661]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.54.54:534][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2021.02.07-21.54.54:536][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2021.02.07-21.54.54:539][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_1, compiling. 
+[2021.02.07-21.54.54:541][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_0, compiling. 
+[2021.02.07-21.54.54:545][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_1, compiling. 
+[2021.02.07-21.54.54:548][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2021.02.07-21.54.54:550][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_1, compiling. 
+[2021.02.07-21.54.54:553][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionOneMinus_0, compiling. 
+[2021.02.07-21.54.54:555][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionOneMinus_1, compiling. 
+[2021.02.07-21.54.54:558][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_0, compiling. 
+[2021.02.07-21.54.54:561][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_1, compiling. 
+[2021.02.07-21.54.54:564][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_2, compiling. 
+[2021.02.07-21.54.54:567][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_0, compiling. 
+[2021.02.07-21.54.54:570][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_1, compiling. 
+[2021.02.07-21.54.54:573][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_2, compiling. 
+[2021.02.07-21.54.54:800][669]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 62
+[2021.02.07-21.54.55:060][677]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 61
+[2021.02.07-21.54.55:109][679]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 60
+[2021.02.07-21.54.55:170][682]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 59
+[2021.02.07-21.54.55:188][683]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 58
+[2021.02.07-21.54.55:219][685]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 57
+[2021.02.07-21.54.55:258][687]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 56
+[2021.02.07-21.54.55:279][688]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 55
+[2021.02.07-21.54.55:298][689]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 54
+[2021.02.07-21.54.55:337][691]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 53
+[2021.02.07-21.54.55:337][691]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 52
+[2021.02.07-21.54.55:357][692]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 51
+[2021.02.07-21.54.55:422][695]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 50
+[2021.02.07-21.54.55:444][696]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 49
+[2021.02.07-21.54.55:517][698]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 48
+[2021.02.07-21.54.55:578][700]MaterialEditorStats: Base pass shader: 140 instructions
+[2021.02.07-21.54.55:578][700]MaterialEditorStats: Base pass shader with Surface Lightmap: 167 instructions
+[2021.02.07-21.54.55:578][700]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 214 instructions
+[2021.02.07-21.54.55:578][700]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.54.55:578][700]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.54.55:578][700]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.54.55:664][703]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 47
+[2021.02.07-21.54.55:694][704]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 46
+[2021.02.07-21.54.55:694][704]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 45
+[2021.02.07-21.54.55:729][705]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 44
+[2021.02.07-21.54.55:798][708]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 43
+[2021.02.07-21.54.55:821][709]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 42
+[2021.02.07-21.54.55:845][710]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 41
+[2021.02.07-21.54.55:845][710]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 40
+[2021.02.07-21.54.55:909][712]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 39
+[2021.02.07-21.54.55:938][713]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 38
+[2021.02.07-21.54.55:966][714]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 37
+[2021.02.07-21.54.55:998][715]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 36
+[2021.02.07-21.54.56:197][721]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 35
+[2021.02.07-21.54.56:225][722]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 34
+[2021.02.07-21.54.56:256][723]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 33
+[2021.02.07-21.54.56:256][723]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 32
+[2021.02.07-21.54.56:364][727]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 31
+[2021.02.07-21.54.56:364][727]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 30
+[2021.02.07-21.54.56:396][728]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 29
+[2021.02.07-21.54.56:451][730]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 28
+[2021.02.07-21.54.56:479][731]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 27
+[2021.02.07-21.54.56:479][731]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 26
+[2021.02.07-21.54.56:530][733]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 25
+[2021.02.07-21.54.56:531][733]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 24
+[2021.02.07-21.54.56:734][740]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 23
+[2021.02.07-21.54.56:765][741]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 22
+[2021.02.07-21.54.56:765][741]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 21
+[2021.02.07-21.54.56:799][742]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2021.02.07-21.54.56:946][747]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 19
+[2021.02.07-21.54.56:973][748]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2021.02.07-21.54.56:973][748]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 17
+[2021.02.07-21.54.57:003][749]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2021.02.07-21.54.57:027][750]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2021.02.07-21.54.57:055][751]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2021.02.07-21.54.57:078][752]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 13
+[2021.02.07-21.54.57:079][752]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2021.02.07-21.54.57:240][757]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 11
+[2021.02.07-21.54.57:273][758]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 10
+[2021.02.07-21.54.57:273][758]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2021.02.07-21.54.57:304][759]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2021.02.07-21.54.57:339][760]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.54.57:460][764]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 21
+[2021.02.07-21.54.57:460][764]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 20
+[2021.02.07-21.54.57:501][765]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 19
+[2021.02.07-21.54.57:552][767]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2021.02.07-21.54.57:579][768]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 17
+[2021.02.07-21.54.57:579][768]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 16
+[2021.02.07-21.54.57:601][769]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2021.02.07-21.54.57:627][770]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2021.02.07-21.54.57:757][775]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2021.02.07-21.54.57:788][776]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 12
+[2021.02.07-21.54.57:788][776]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2021.02.07-21.54.57:819][777]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 10
+[2021.02.07-21.54.57:991][783]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2021.02.07-21.54.57:991][783]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2021.02.07-21.54.57:991][783]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2021.02.07-21.54.58:020][784]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.02.07-21.54.58:045][785]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.54.58:073][786]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2021.02.07-21.54.58:121][788]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.02.07-21.54.58:149][789]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.02.07-21.54.58:483][801]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2021.02.07-21.54.58:729][815]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.54.58:730][815]LogMaterial: Warning: /Engine/Transient.GlowEnhancedV2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.07-21.54.58:730][815]LogMaterial: Display: 	(Node Cosine) Missing Cosine input
+[2021.02.07-21.54.58:738][815]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_0, compiling. 
+[2021.02.07-21.54.58:742][815]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.02.07-21.54.58:742][815]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2021.02.07-21.54.58:742][815]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.02.07-21.54.58:742][815]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.02.07-21.54.58:751][815]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_1, compiling. 
+[2021.02.07-21.54.58:760][815]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDivide_2, compiling. 
+[2021.02.07-21.54.58:764][815]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.02.07-21.54.58:764][815]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.02.07-21.54.58:764][815]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.02.07-21.54.58:764][815]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.02.07-21.54.58:799][818]MaterialEditorStats: Error: [SM5] (Node Cosine) Missing Cosine input
+[2021.02.07-21.55.05:593][464]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.55.05:593][464]LogMaterial: Warning: /Engine/Transient.GlowEnhancedV2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.07-21.55.05:593][464]LogMaterial: Display: 	(Node Cosine) Missing Cosine input
+[2021.02.07-21.55.06:669][567]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.55.06:704][568]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.55.06:704][568]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.55.06:704][568]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.55.06:704][568]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.55.06:704][568]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.55.06:704][568]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.55.06:704][568]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.55.06:705][568]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.55.06:705][568]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.55.06:705][568]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.55.06:705][568]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.55.06:705][568]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.55.06:964][579]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.02.07-21.55.07:221][588]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.02.07-21.55.07:537][612]MaterialEditorStats: Base pass shader: 140 instructions
+[2021.02.07-21.55.07:537][612]MaterialEditorStats: Base pass shader with Surface Lightmap: 167 instructions
+[2021.02.07-21.55.07:537][612]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 214 instructions
+[2021.02.07-21.55.07:537][612]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.55.07:537][612]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.55.07:537][612]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.56.29:065][594]LogMaterialEditor: Saving and Compiling material GlowEnhancedV2
+[2021.02.07-21.56.29:495][594]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.56.29:536][594]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.56.29:536][594]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.56.29:536][594]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.56.29:536][594]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.56.29:536][594]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.56.29:536][594]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.56.29:536][594]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.56.29:536][594]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.56.29:536][594]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.56.29:536][594]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.56.29:536][594]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.56.29:536][594]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.56.29:550][594]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.56.29:599][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.02.07-21.56.29:607][594]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.07-21.56.30:173][594]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 35
+[2021.02.07-21.56.30:593][594]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 34
+[2021.02.07-21.56.30:593][594]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 33
+[2021.02.07-21.56.30:593][594]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 32
+[2021.02.07-21.56.30:593][594]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 31
+[2021.02.07-21.56.30:593][594]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 28
+[2021.02.07-21.56.30:593][594]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 25
+[2021.02.07-21.56.30:593][594]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 22
+[2021.02.07-21.56.30:593][594]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 20
+[2021.02.07-21.56.30:593][594]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 18
+[2021.02.07-21.56.30:593][594]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 16
+[2021.02.07-21.56.30:593][594]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 14
+[2021.02.07-21.56.30:593][594]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 12
+[2021.02.07-21.56.30:593][594]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2021.02.07-21.56.30:593][594]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.02.07-21.56.30:593][594]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2021.02.07-21.56.30:600][594]TextureStreamingBuild: Display: Compiling optional shaders took 0.996 seconds.
+[2021.02.07-21.56.30:612][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.02.07-21.56.31:279][594]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.02.07-21.56.31:279][594]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2021.02.07-21.56.31:279][594]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2021.02.07-21.56.31:841][594]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.02.07-21.56.31:841][594]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2021.02.07-21.56.31:841][594]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.02.07-21.56.31:841][594]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2021.02.07-21.56.31:981][594]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Saved/GlowEnhancedV247A314084F88AE82436B4094BCFAB79B.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Materials/GlowEnhancedV2.uasset'
+[2021.02.07-21.56.32:022][594]AssetCheck: New page: Asset Save: GlowEnhancedV2
+[2021.02.07-21.56.32:022][594]LogContentValidation: Display: Validating Material /Game/LenhartChris/Materials/GlowEnhancedV2.GlowEnhancedV2
+[2021.02.07-21.56.32:024][594]MaterialEditorStats: Base pass shader: 140 instructions
+[2021.02.07-21.56.32:024][594]MaterialEditorStats: Base pass shader with Surface Lightmap: 167 instructions
+[2021.02.07-21.56.32:024][594]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 214 instructions
+[2021.02.07-21.56.32:024][594]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.56.32:024][594]MaterialEditorStats: Texture samplers: 3/16
+[2021.02.07-21.56.32:024][594]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.56.36:140][968]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.56.36:157][969]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.56.36:158][969]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.56.36:158][969]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.56.36:158][969]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.56.36:158][969]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.56.36:158][969]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.56.36:158][969]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.56.36:158][969]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.56.36:158][969]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.56.36:158][969]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.56.36:158][969]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.56.36:158][969]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.56.36:450][983]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.02.07-21.56.36:730][992]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.02.07-21.56.37:059][ 10]MaterialEditorStats: Base pass shader: 140 instructions
+[2021.02.07-21.56.37:059][ 10]MaterialEditorStats: Base pass shader with Surface Lightmap: 167 instructions
+[2021.02.07-21.56.37:059][ 10]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 214 instructions
+[2021.02.07-21.56.37:059][ 10]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.56.37:059][ 10]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.07-21.56.37:059][ 10]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.57.17:753][951]LogMaterialEditor: Saving and Compiling material GlowEnhancedV2
+[2021.02.07-21.57.17:785][951]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Saved/GlowEnhancedV2AB41E4E74F019096A35B3CA82B5311B7.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Materials/GlowEnhancedV2.uasset'
+[2021.02.07-21.57.17:793][951]AssetCheck: New page: Asset Save: GlowEnhancedV2
+[2021.02.07-21.57.17:793][951]LogContentValidation: Display: Validating Material /Game/LenhartChris/Materials/GlowEnhancedV2.GlowEnhancedV2
+[2021.02.07-21.58.06:859][813]LogMaterialEditor: Saving and Compiling material GlowEnhancedV2
+[2021.02.07-21.58.07:284][813]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.58.07:311][813]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.07-21.58.07:311][813]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-21.58.07:311][813]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.02.07-21.58.07:311][813]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.02.07-21.58.07:311][813]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.07-21.58.07:311][813]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.07-21.58.07:311][813]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.02.07-21.58.07:311][813]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.02.07-21.58.07:311][813]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.02.07-21.58.07:311][813]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.02.07-21.58.07:311][813]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.02.07-21.58.07:311][813]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.02.07-21.58.07:338][813]LogMaterial: Display: Missing cached shader map for material GlowEnhancedV2, compiling. 
+[2021.02.07-21.58.07:390][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.02.07-21.58.07:398][813]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.07-21.58.07:963][813]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 35
+[2021.02.07-21.58.08:372][813]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 34
+[2021.02.07-21.58.08:372][813]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 33
+[2021.02.07-21.58.08:372][813]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 32
+[2021.02.07-21.58.08:372][813]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 31
+[2021.02.07-21.58.08:372][813]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 28
+[2021.02.07-21.58.08:372][813]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 25
+[2021.02.07-21.58.08:372][813]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 22
+[2021.02.07-21.58.08:372][813]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2021.02.07-21.58.08:372][813]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 18
+[2021.02.07-21.58.08:372][813]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 16
+[2021.02.07-21.58.08:372][813]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 14
+[2021.02.07-21.58.08:372][813]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 12
+[2021.02.07-21.58.08:372][813]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2021.02.07-21.58.08:372][813]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.02.07-21.58.08:372][813]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2021.02.07-21.58.08:378][813]TextureStreamingBuild: Display: Compiling optional shaders took 0.985 seconds.
+[2021.02.07-21.58.08:388][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.02.07-21.58.09:017][813]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.02.07-21.58.09:017][813]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2021.02.07-21.58.09:017][813]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2021.02.07-21.58.09:578][813]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2021.02.07-21.58.09:578][813]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2021.02.07-21.58.09:578][813]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.02.07-21.58.09:578][813]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2021.02.07-21.58.09:747][813]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Saved/GlowEnhancedV2C93204724C4DA99D131F6787B4B148F6.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Materials/GlowEnhancedV2.uasset'
+[2021.02.07-21.58.09:788][813]AssetCheck: New page: Asset Save: GlowEnhancedV2
+[2021.02.07-21.58.09:788][813]LogContentValidation: Display: Validating Material /Game/LenhartChris/Materials/GlowEnhancedV2.GlowEnhancedV2
+[2021.02.07-21.58.09:789][813]MaterialEditorStats: Base pass shader: 140 instructions
+[2021.02.07-21.58.09:789][813]MaterialEditorStats: Base pass shader with Surface Lightmap: 167 instructions
+[2021.02.07-21.58.09:789][813]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 214 instructions
+[2021.02.07-21.58.09:789][813]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.02.07-21.58.09:789][813]MaterialEditorStats: Texture samplers: 3/16
+[2021.02.07-21.58.09:789][813]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.07-21.58.10:384][847]LogSlate: Window 'GlowEnhancedV2' being destroyed
+[2021.02.07-21.58.10:389][847]LogSlate: Window 'GlowEnhancedV2' being destroyed
+[2021.02.07-21.58.10:430][847]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.02.07-21.58.10:430][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.07-21.58.21:925][105]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Saved/GlowEnhancedV2_InstB7134EDE4C6EAED506D7468ABE43E992.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Materials/Instances/GlowEnhancedV2_Inst.uasset'
+[2021.02.07-21.58.22:029][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.02.07-21.58.22:053][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.02.07-21.58.22:063][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.02.07-21.58.22:135][105]AssetCheck: New page: Asset Save: GlowEnhancedV2_Inst
+[2021.02.07-21.58.22:135][105]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/LenhartChris/Materials/Instances/GlowEnhancedV2_Inst.GlowEnhancedV2_Inst
+[2021.02.07-21.58.26:076][515]LogD3D12RHI: Creating RTPSO with 160 shaders (159 cached, 1 new) took 51.54 ms. Compile time 45.51 ms, link time 5.87 ms.
+[2021.02.07-21.58.33:981][443]Cmd: TRANSACTION UNDO
+[2021.02.07-21.58.33:981][443]LogEditorTransaction: Undo Create Actors
+[2021.02.07-21.58.35:674][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
