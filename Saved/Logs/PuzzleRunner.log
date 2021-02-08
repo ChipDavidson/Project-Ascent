@@ -1485,3 +1485,398 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.08-08.18.00:907][476]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000145477F4200), frame # 203476
 [2021.02.08-08.18.00:913][476]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
 [2021.02.08-08.18.00:957][477]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.02.08-08.19.35:410][274]MapCheck: New page: Map Check
+[2021.02.08-08.19.35:422][274]Cmd: MAP REBUILD ALLVISIBLE
+[2021.02.08-08.19.35:422][274]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.02.08-08.19.35:444][274]LogWorld: UWorld::CleanupWorld for Caves, bSessionEnded=true, bCleanupResources=false
+[2021.02.08-08.19.35:983][274]LightingResults: New page: Lighting Build - Feb 7, 2021, 10:19:35 PM
+[2021.02.08-08.19.36:022][274]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.02.08-08.19.36:059][274]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.02.08-08.19.36:067][274]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.02.08-08.19.36:584][274]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.02.08-08.19.36:584][274]LogSwarmInterface: [TryOpenConnection] Local Process ID is 21028
+[2021.02.08-08.19.47:938][274]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.02.08-08.19.47:939][274]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.02.08-08.19.47:939][274]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.02.08-08.19.47:939][274]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.02.08-08.19.47:939][274]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.02.08-08.19.48:130][274]LogEditorBuildUtils: Build time 0:12
+[2021.02.08-08.19.48:336][276]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.02.08-08.20.41:247][285]Job is a success!
+[2021.02.08-08.20.41:465][287]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2021.02.08-08.20.41:466][287]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.02.08-08.20.41:466][287]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2021.02.08-08.20.41:466][287]LogVolumetricLightmapImport:      Bricks at depth
+[2021.02.08-08.20.41:466][287]LogVolumetricLightmapImport:          0: 2.7% covering 100.0% of volume
+[2021.02.08-08.20.41:466][287]LogVolumetricLightmapImport:          1: 10.8% covering 6.2% of volume
+[2021.02.08-08.20.41:466][287]LogVolumetricLightmapImport:          2: 86.5% covering 0.8% of volume
+[2021.02.08-08.20.41:466][287]LogVolumetricLightmapImport:      Bricks in each level
+[2021.02.08-08.20.41:466][287]LogVolumetricLightmapImport:          Caves 			 37 bricks 	 100.0% (Persistent Level)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 1024X512)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 1024X512)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 1024X512)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 1024X512)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 1024X512)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 1024X512)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 1024X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 1024X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: SkyOcclusion1_11 (AutoDXT, 1024X512)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 1024X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 1024X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: SkyOcclusion1_12 (AutoDXT, 1024X512)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 1024X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 1024X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: SkyOcclusion1_13 (AutoDXT, 1024X512)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 1024X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 1024X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 1024X512)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 1024X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 1024X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 1024X512)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 1024X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 1024X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 1024X512)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 1024X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 1024X1024)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: SkyOcclusion0_17 (AutoDXT, 1024X512)
+[2021.02.08-08.20.47:643][287]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 1024X1024)
+[2021.02.08-08.20.47:644][287]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 1024X1024)
+[2021.02.08-08.20.47:644][287]LogTexture: Display: Building textures: SkyOcclusion0_18 (AutoDXT, 1024X512)
+[2021.02.08-08.20.47:644][287]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 1024X1024)
+[2021.02.08-08.20.47:644][287]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 1024X1024)
+[2021.02.08-08.20.47:644][287]LogTexture: Display: Building textures: SkyOcclusion0_19 (AutoDXT, 1024X512)
+[2021.02.08-08.20.47:644][287]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 1024X1024)
+[2021.02.08-08.20.47:644][287]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 1024X1024)
+[2021.02.08-08.20.47:644][287]LogTexture: Display: Building textures: SkyOcclusion0_20 (AutoDXT, 1024X512)
+[2021.02.08-08.20.47:644][287]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 1024X1024)
+[2021.02.08-08.20.47:644][287]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 1024X1024)
+[2021.02.08-08.20.47:644][287]LogTexture: Display: Building textures: SkyOcclusion0_21 (AutoDXT, 1024X512)
+[2021.02.08-08.20.47:644][287]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 1024X1024)
+[2021.02.08-08.20.47:644][287]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 1024X1024)
+[2021.02.08-08.20.47:644][287]LogTexture: Display: Building textures: SkyOcclusion0_22 (AutoDXT, 256X128)
+[2021.02.08-08.20.47:644][287]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 256X256)
+[2021.02.08-08.20.47:644][287]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 256X256)
+[2021.02.08-08.20.47:644][287]LogTexture: Display: Building textures: SkyOcclusion0_23 (AutoDXT, 1024X512)
+[2021.02.08-08.20.47:644][287]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 1024X1024)
+[2021.02.08-08.20.47:644][287]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 1024X1024)
+[2021.02.08-08.20.47:644][287]LogTexture: Display: Building textures: SkyOcclusion0_24 (AutoDXT, 512X256)
+[2021.02.08-08.20.47:644][287]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 512X512)
+[2021.02.08-08.20.47:644][287]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 512X512)
+[2021.02.08-08.20.47:644][287]LogTexture: Display: Building textures: SkyOcclusion0_25 (AutoDXT, 64X32)
+[2021.02.08-08.20.47:644][287]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 64X64)
+[2021.02.08-08.20.47:644][287]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 64X64)
+[2021.02.08-08.20.48:044][287]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2021.02.08-08.20.48:044][287]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X1024)
+[2021.02.08-08.20.48:044][287]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2021.02.08-08.20.48:044][287]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 1024X1024)
+[2021.02.08-08.20.48:044][287]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 256X128)
+[2021.02.08-08.20.48:044][287]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 256X64)
+[2021.02.08-08.20.48:044][287]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 32X32)
+[2021.02.08-08.20.48:044][287]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 1024X1024)
+[2021.02.08-08.20.48:044][287]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X1024)
+[2021.02.08-08.20.48:044][287]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 1024X1024)
+[2021.02.08-08.20.48:044][287]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2021.02.08-08.20.48:044][287]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 1024X1024)
+[2021.02.08-08.20.48:044][287]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 1024X1024)
+[2021.02.08-08.20.48:044][287]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 1024X1024)
+[2021.02.08-08.20.48:044][287]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 1024X1024)
+[2021.02.08-08.20.48:044][287]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X1024)
+[2021.02.08-08.20.48:044][287]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X1024)
+[2021.02.08-08.20.48:173][287]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 1024X1024)
+[2021.02.08-08.20.48:173][287]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 1024X1024)
+[2021.02.08-08.20.48:173][287]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 1024X1024)
+[2021.02.08-08.20.48:173][287]Lightmass on DESKTOP-6LVPFN9: 59.4 sec total, 335 ms importing, 259 ms setup, 9.05 sec photons, 49.7 sec processing, 0 ms extra exporting [264/264 mappings]. Threads: 12:26 min total, 6:44 min processing.
+[2021.02.08-08.20.48:174][287]LogStaticLightingSystem: Caves_BuiltData storing lightmap data for 257 meshes in 36 LightmapResourceClusters (7.1 Meshes per cluster).
+[2021.02.08-08.20.48:244][287]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2021.02.08-08.20.48:358][287]LogStaticLightingSystem: Illumination: 1:12 min (5.01 sec encoding lightmaps, 508 ms encoding shadowmaps)
+[2021.02.08-08.20.48:358][287]LogStaticLightingSystem: Lightmap texture memory:  93.7 MB (93.4 MB streaming, 0.2 MB non-streaming), 50 textures
+[2021.02.08-08.20.48:358][287]LogStaticLightingSystem: Shadowmap texture memory: 23.6 MB (23.5 MB streaming, 0.1 MB non-streaming), 20 textures
+[2021.02.08-08.20.48:990][287]DumpUnbuiltLightIteractions
+[2021.02.08-08.20.48:990][287]Lights with unbuilt interactions: 0
+[2021.02.08-08.20.48:990][287]
+[2021.02.08-08.20.48:990][287]Primitives with unbuilt interactions: 0
+[2021.02.08-08.20.49:037][287]LogD3D12RHI: Creating RTPSO with 186 shaders (160 cached, 26 new) took 23.91 ms. Compile time 17.23 ms, link time 6.50 ms.
+[2021.02.08-08.20.49:230][288]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.02.08-08.20.49:230][288]MapCheck: New page: Caves - Feb 7, 2021, 10:20:49 PM
+[2021.02.08-08.20.49:235][288]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4.836ms to complete.
+[2021.02.08-08.21.33:690][429]Cmd: DELETE
+[2021.02.08-08.21.33:690][429]Cmd: ACTOR DELETE
+[2021.02.08-08.21.33:704][429]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2021.02.08-08.21.33:733][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.02.08-08.21.33:743][429]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2021.02.08-08.21.50:116][947]Cmd: EDIT COPY
+[2021.02.08-08.21.50:326][968]Cmd: EDIT PASTE
+[2021.02.08-08.21.56:539][536]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight)
+[2021.02.08-08.21.57:190][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x5WallWPillars13)
+[2021.02.08-08.21.57:652][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SmallWoodenPlatform)
+[2021.02.08-08.21.58:382][722]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_FireCoals_01a_C (BP_FireCoals_01a2)
+[2021.02.08-08.21.58:986][790]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight)
+[2021.02.08-08.22.00:826][967]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight2)
+[2021.02.08-08.22.01:607][ 46]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_FireCoals_01a_C (BP_FireCoals_01a3)
+[2021.02.08-08.22.02:094][ 97]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SmallWoodenPlatform2)
+[2021.02.08-08.22.04:243][316]Cmd: EDIT COPY
+[2021.02.08-08.22.04:410][331]Cmd: EDIT PASTE
+[2021.02.08-08.22.19:516][835]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2021.02.08-08.22.20:177][887]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_FireCoals_01a_C (BP_FireCoals_01a4)
+[2021.02.08-08.22.21:006][982]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SmallWoodenPlatform3)
+[2021.02.08-08.22.23:760][238]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight4)
+[2021.02.08-08.22.24:214][287]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_FireCoals_01a_C (BP_FireCoals_01a5)
+[2021.02.08-08.22.24:625][331]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SmallWoodenPlatform4)
+[2021.02.08-08.22.26:175][494]Cmd: EDIT COPY
+[2021.02.08-08.22.26:363][513]Cmd: EDIT PASTE
+[2021.02.08-08.22.31:030][912]Cmd: DELETE
+[2021.02.08-08.22.31:030][912]Cmd: ACTOR DELETE
+[2021.02.08-08.22.31:045][912]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.08-08.22.31:045][912]LogEditorActor: Deleted Actor: BP_FireCoals_01a_C
+[2021.02.08-08.22.31:046][912]LogEditorActor: Deleted Actor: PointLight
+[2021.02.08-08.22.31:046][912]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.08-08.22.31:047][912]LogEditorActor: Deleted Actor: BP_FireCoals_01a_C
+[2021.02.08-08.22.31:047][912]LogEditorActor: Deleted Actor: PointLight
+[2021.02.08-08.22.31:078][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.02.08-08.22.31:086][912]LogEditorActor: Deleted 6 Actors (0.056 secs)
+[2021.02.08-08.22.34:119][194]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight7)
+[2021.02.08-08.22.34:575][228]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_FireCoals_01a_C (BP_FireCoals_01a7)
+[2021.02.08-08.22.36:724][415]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight8)
+[2021.02.08-08.22.37:141][446]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_FireCoals_01a_C (BP_FireCoals_01a8)
+[2021.02.08-08.22.37:547][487]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SmallWoodenPlatform7)
+[2021.02.08-08.22.40:552][739]Cmd: EDIT COPY
+[2021.02.08-08.22.40:761][757]Cmd: EDIT PASTE
+[2021.02.08-08.23.19:022][835]Cmd: DELETE
+[2021.02.08-08.23.19:022][835]Cmd: ACTOR DELETE
+[2021.02.08-08.23.19:037][835]LogEditorActor: Deleted Actor: PointLight
+[2021.02.08-08.23.19:038][835]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.08-08.23.19:039][835]LogEditorActor: Deleted Actor: BP_FireCoals_01a_C
+[2021.02.08-08.23.19:039][835]LogEditorActor: Deleted Actor: PointLight
+[2021.02.08-08.23.19:071][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.02.08-08.23.19:074][835]LogEditorActor: Deleted 4 Actors (0.052 secs)
+[2021.02.08-08.23.21:359][ 37]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SmallWoodenPlatform6)
+[2021.02.08-08.23.22:082][ 87]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_FireCoals_01a_C (BP_FireCoals_01a7)
+[2021.02.08-08.23.22:599][135]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight7)
+[2021.02.08-08.23.31:983][ 92]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight8)
+[2021.02.08-08.23.32:508][141]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_FireCoals_01a_C (BP_FireCoals_01a8)
+[2021.02.08-08.23.33:108][197]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SmallWoodenPlatform7)
+[2021.02.08-08.23.33:902][273]Cmd: EDIT COPY
+[2021.02.08-08.23.34:104][290]Cmd: EDIT PASTE
+[2021.02.08-08.23.57:949][276]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture2)
+[2021.02.08-08.24.03:995][777]LogEditorViewport: Clicking on Actor (CTRL LMB): SphereReflectionCapture (SphereReflectionCapture3)
+[2021.02.08-08.24.17:584][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.02.08-08.24.18:573][924]LogSlate: Window 'Save Content' being destroyed
+[2021.02.08-08.24.18:635][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.02.08-08.24.18:890][924]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Saved/Caves43B74AA249A2DD28279128A739FB9ACA.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Maps/GameLevels/Caves.umap'
+[2021.02.08-08.24.18:929][924]LogFileHelpers: Saving map 'Caves' took 0.321
+[2021.02.08-08.24.20:355][924]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Saved/Caves_BuiltDataAAD6624149E77C7C23E52582AC02D605.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Maps/GameLevels/Caves_BuiltData.uasset'
+[2021.02.08-08.24.20:389][924]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.08-08.24.20:389][924]LogContentValidation: Display: Validating World /Game/LenhartChris/Maps/GameLevels/Caves.Caves
+[2021.02.08-08.24.20:389][924]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/LenhartChris/Maps/GameLevels/Caves_BuiltData.Caves_BuiltData
+[2021.02.08-08.24.30:069][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wood_F)
+[2021.02.08-08.24.30:726][957]Cmd: DELETE
+[2021.02.08-08.24.30:726][957]Cmd: ACTOR DELETE
+[2021.02.08-08.24.30:740][957]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.08-08.24.30:767][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.02.08-08.24.30:771][957]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2021.02.08-08.24.36:336][545]LogEditorViewport: Clicking on Actor (LMB): BP_FireCoals_01a_C (BP_FireCoals_01a5)
+[2021.02.08-08.24.36:970][608]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight4)
+[2021.02.08-08.24.38:776][782]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_FireCoals_01a_C (BP_FireCoals_01a4)
+[2021.02.08-08.24.39:220][806]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight3)
+[2021.02.08-08.24.41:689][ 47]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_FireCoals_01a_C (BP_FireCoals_01a9)
+[2021.02.08-08.24.42:348][106]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight9)
+[2021.02.08-08.24.44:038][272]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_FireCoals_01a_C (BP_FireCoals_01a10)
+[2021.02.08-08.24.45:111][363]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight10)
+[2021.02.08-08.24.54:894][328]LogEditorViewport: Clicking on Actor (LMB): BP_FireCoals_01a_C (BP_FireCoals_01a8)
+[2021.02.08-08.24.55:413][382]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight8)
+[2021.02.08-08.24.57:588][594]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_FireCoals_01a_C (BP_FireCoals_01a7)
+[2021.02.08-08.24.58:085][645]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight7)
+[2021.02.08-08.25.00:245][848]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_FireCoals_01a_C (BP_FireCoals_01a2)
+[2021.02.08-08.25.02:299][ 32]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight)
+[2021.02.08-08.25.04:519][250]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight2)
+[2021.02.08-08.25.04:976][285]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_FireCoals_01a_C (BP_FireCoals_01a3)
+[2021.02.08-08.25.11:670][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.02.08-08.25.13:753][925]LogSlate: Window 'Save Content' being destroyed
+[2021.02.08-08.25.13:803][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.02.08-08.25.14:047][925]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Saved/CavesF90F6650429C1ADF9E18D9B4F376DDD7.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Maps/GameLevels/Caves.umap'
+[2021.02.08-08.25.14:085][925]LogFileHelpers: Saving map 'Caves' took 0.310
+[2021.02.08-08.25.15:453][925]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Saved/Caves_BuiltData2F33A0754F11E19C4869C9A06C32B684.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Maps/GameLevels/Caves_BuiltData.uasset'
+[2021.02.08-08.25.15:504][925]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.08-08.25.15:504][925]LogContentValidation: Display: Validating World /Game/LenhartChris/Maps/GameLevels/Caves.Caves
+[2021.02.08-08.25.15:504][925]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/LenhartChris/Maps/GameLevels/Caves_BuiltData.Caves_BuiltData
+[2021.02.08-08.25.16:730][  8]MapCheck: New page: Map Check
+[2021.02.08-08.25.16:746][  8]Cmd: MAP REBUILD ALLVISIBLE
+[2021.02.08-08.25.16:746][  8]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.02.08-08.25.16:772][  8]LogWorld: UWorld::CleanupWorld for Caves, bSessionEnded=true, bCleanupResources=false
+[2021.02.08-08.25.17:330][  8]LightingResults: New page: Lighting Build - Feb 7, 2021, 10:25:17 PM
+[2021.02.08-08.25.17:343][  8]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.02.08-08.25.17:346][  8]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.02.08-08.25.17:346][  8]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.02.08-08.25.17:347][  8]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.02.08-08.25.17:347][  8]LogSwarmInterface: [TryOpenConnection] Local Process ID is 21028
+[2021.02.08-08.25.21:909][  8]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.02.08-08.25.21:909][  8]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.02.08-08.25.21:909][  8]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.02.08-08.25.21:909][  8]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.02.08-08.25.21:909][  8]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.02.08-08.25.22:028][  8]LogEditorBuildUtils: Build time 0:05
+[2021.02.08-08.25.22:261][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.02.08-08.26.17:789][514]Job is a success!
+[2021.02.08-08.26.18:005][516]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2021.02.08-08.26.18:005][516]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.02.08-08.26.18:005][516]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2021.02.08-08.26.18:005][516]LogVolumetricLightmapImport:      Bricks at depth
+[2021.02.08-08.26.18:005][516]LogVolumetricLightmapImport:          0: 2.4% covering 100.0% of volume
+[2021.02.08-08.26.18:005][516]LogVolumetricLightmapImport:          1: 9.8% covering 6.2% of volume
+[2021.02.08-08.26.18:005][516]LogVolumetricLightmapImport:          2: 87.8% covering 0.9% of volume
+[2021.02.08-08.26.18:005][516]LogVolumetricLightmapImport:      Bricks in each level
+[2021.02.08-08.26.18:005][516]LogVolumetricLightmapImport:          Caves 			 41 bricks 	 100.0% (Persistent Level)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 2048X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 2048X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 2048X2048)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 2048X2048)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 1024X512)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 1024X512)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 1024X512)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 1024X512)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 1024X512)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 1024X512)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 1024X512)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 1024X512)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 1024X512)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: SkyOcclusion1_14 (AutoDXT, 1024X512)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: SkyOcclusion1_15 (AutoDXT, 1024X512)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: SkyOcclusion1_16 (AutoDXT, 1024X512)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: SkyOcclusion1_17 (AutoDXT, 1024X512)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: SkyOcclusion1_18 (AutoDXT, 1024X512)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: SkyOcclusion1_19 (AutoDXT, 1024X512)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: SkyOcclusion1_20 (AutoDXT, 1024X512)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: SkyOcclusion1_21 (AutoDXT, 1024X512)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: HQ_Lightmap1_21 (AutoDXT, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: LQ_Lightmap_1_21 (DXT1, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: SkyOcclusion1_22 (AutoDXT, 256X128)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: HQ_Lightmap1_22 (AutoDXT, 256X256)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: LQ_Lightmap_1_22 (DXT1, 256X256)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: SkyOcclusion1_23 (AutoDXT, 1024X512)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: HQ_Lightmap1_23 (AutoDXT, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: LQ_Lightmap_1_23 (DXT1, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: SkyOcclusion1_24 (AutoDXT, 1024X512)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: HQ_Lightmap1_24 (AutoDXT, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: LQ_Lightmap_1_24 (DXT1, 1024X1024)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: SkyOcclusion1_25 (AutoDXT, 256X128)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: HQ_Lightmap1_25 (AutoDXT, 256X256)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: LQ_Lightmap_1_25 (DXT1, 256X256)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: SkyOcclusion0_26 (AutoDXT, 64X32)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 64X64)
+[2021.02.08-08.26.24:447][516]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (DXT1, 64X64)
+[2021.02.08-08.26.24:847][516]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (G8, 1024X1024)
+[2021.02.08-08.26.24:847][516]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (G8, 1024X1024)
+[2021.02.08-08.26.24:847][516]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (G8, 1024X1024)
+[2021.02.08-08.26.24:847][516]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (G8, 1024X1024)
+[2021.02.08-08.26.24:847][516]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (G8, 1024X1024)
+[2021.02.08-08.26.24:847][516]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 1024X1024)
+[2021.02.08-08.26.24:847][516]LogTexture: Display: Building textures: ShadowMapTexture2D_53 (G8, 32X32)
+[2021.02.08-08.26.24:847][516]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (G8, 1024X1024)
+[2021.02.08-08.26.24:847][516]LogTexture: Display: Building textures: ShadowMapTexture2D_52 (G8, 1024X64)
+[2021.02.08-08.26.24:847][516]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (G8, 1024X1024)
+[2021.02.08-08.26.24:847][516]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (G8, 1024X1024)
+[2021.02.08-08.26.24:847][516]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (G8, 1024X1024)
+[2021.02.08-08.26.24:847][516]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 1024X1024)
+[2021.02.08-08.26.24:847][516]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (G8, 1024X1024)
+[2021.02.08-08.26.24:847][516]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (G8, 1024X1024)
+[2021.02.08-08.26.24:847][516]LogTexture: Display: Building textures: ShadowMapTexture2D_51 (G8, 256X128)
+[2021.02.08-08.26.24:847][516]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (G8, 1024X1024)
+[2021.02.08-08.26.25:017][516]LogTexture: Display: Building textures: ShadowMapTexture2D_48 (G8, 1024X1024)
+[2021.02.08-08.26.25:017][516]LogTexture: Display: Building textures: ShadowMapTexture2D_49 (G8, 1024X1024)
+[2021.02.08-08.26.25:017][516]LogTexture: Display: Building textures: ShadowMapTexture2D_50 (G8, 1024X1024)
+[2021.02.08-08.26.25:018][516]LogStaticLightingSystem: Caves_BuiltData storing lightmap data for 274 meshes in 40 LightmapResourceClusters (6.8 Meshes per cluster).
+[2021.02.08-08.26.25:078][516]Lightmass on DESKTOP-6LVPFN9: 1:02 min total, 350 ms importing, 333 ms setup, 11.8 sec photons, 49.8 sec processing, 0 ms extra exporting [281/281 mappings]. Threads: 12:27 min total, 5:46 min processing.
+[2021.02.08-08.26.25:085][516]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.02.08-08.26.25:219][516]LogStaticLightingSystem: Illumination: 1:07 min (5.23 sec encoding lightmaps, 560 ms encoding shadowmaps)
+[2021.02.08-08.26.25:219][516]LogStaticLightingSystem: Lightmap texture memory:  95.9 MB (95.7 MB streaming, 0.2 MB non-streaming), 52 textures
+[2021.02.08-08.26.25:219][516]LogStaticLightingSystem: Shadowmap texture memory: 23.6 MB (23.6 MB streaming, 0.1 MB non-streaming), 20 textures
+[2021.02.08-08.26.25:953][516]DumpUnbuiltLightIteractions
+[2021.02.08-08.26.25:953][516]Lights with unbuilt interactions: 0
+[2021.02.08-08.26.25:953][516]
+[2021.02.08-08.26.25:953][516]Primitives with unbuilt interactions: 0
+[2021.02.08-08.26.26:275][517]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.02.08-08.26.26:275][517]MapCheck: New page: Caves - Feb 7, 2021, 10:26:26 PM
+[2021.02.08-08.26.26:278][517]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.145ms to complete.
+[2021.02.08-08.26.50:250][858]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2021.02.08-08.26.51:559][983]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight4)
+[2021.02.08-08.26.53:487][126]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight9)
+[2021.02.08-08.26.55:443][280]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight10)
+[2021.02.08-08.26.57:661][460]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight6)
+[2021.02.08-08.27.00:194][659]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight8)
+[2021.02.08-08.27.02:213][826]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight2)
+[2021.02.08-08.27.03:785][955]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight)
+[2021.02.08-08.27.05:743][130]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight7)
+[2021.02.08-08.27.12:130][652]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight6)
+[2021.02.08-08.27.41:742][387]LogSlate: Window 'Color Picker' being destroyed
+[2021.02.08-08.27.48:186][971]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.02.08-08.28.47:696][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.02.08-08.28.48:467][102]LogSlate: Window 'Save Content' being destroyed
+[2021.02.08-08.28.48:517][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.02.08-08.28.48:763][102]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Saved/CavesB147EDFB4204102492FC7389E2B64675.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Maps/GameLevels/Caves.umap'
+[2021.02.08-08.28.48:802][102]LogFileHelpers: Saving map 'Caves' took 0.310
+[2021.02.08-08.28.50:194][102]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Saved/Caves_BuiltDataD11F4ADC43062289E82FF293BB023CCB.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Maps/GameLevels/Caves_BuiltData.uasset'
+[2021.02.08-08.28.50:229][102]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.08-08.28.50:229][102]LogContentValidation: Display: Validating World /Game/LenhartChris/Maps/GameLevels/Caves.Caves
+[2021.02.08-08.28.50:229][102]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/LenhartChris/Maps/GameLevels/Caves_BuiltData.Caves_BuiltData
