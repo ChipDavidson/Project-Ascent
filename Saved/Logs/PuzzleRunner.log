@@ -1129,3 +1129,359 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.08-08.09.22:801][210]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/LenhartChris/Maps/DemoStuff/TestingMap_BuiltData.TestingMap_BuiltData
 [2021.02.08-08.09.22:801][210]LogContentValidation: Display: Validating World /Game/LenhartChris/Maps/GameLevels/Caves.Caves
 [2021.02.08-08.09.22:801][210]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/LenhartChris/Maps/GameLevels/Caves_BuiltData.Caves_BuiltData
+[2021.02.08-08.10.15:509][516]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.08-08.10.15:530][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.08-08.10.15:532][516]PIE: New page: PIE session: Caves (Feb 7, 2021, 10:10:15 PM)
+[2021.02.08-08.10.15:533][516]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.02.08-08.10.15:534][516]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.02.08-08.10.15:534][516]LogPlayLevel: Creating play world package: /Game/LenhartChris/Maps/GameLevels/UEDPIE_0_Caves
+[2021.02.08-08.10.15:597][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063559s)
+[2021.02.08-08.10.15:598][516]LogAIModule: Creating AISystem for world Caves
+[2021.02.08-08.10.15:598][516]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001454CAC3400), frame # 156516
+[2021.02.08-08.10.15:598][516]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001459ADD9F80), frame # 156516
+[2021.02.08-08.10.15:599][516]LogPlayLevel: PIE: World Init took: (0.001158s)
+[2021.02.08-08.10.15:599][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LenhartChris/Maps/GameLevels/Caves.Caves to /Game/LenhartChris/Maps/GameLevels/UEDPIE_0_Caves.Caves (0.064876s)
+[2021.02.08-08.10.15:620][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.02.08-08.10.15:626][516]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.08-08.10.15:626][516]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.08-08.10.15:626][516]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.08-08.10.15:626][516]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.08-08.10.15:626][516]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.08-08.10.15:626][516]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.08-08.10.15:626][516]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.08-08.10.15:626][516]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.08-08.10.15:627][516]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.08-08.10.15:627][516]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.08-08.10.15:629][516]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.08-08.10.15:629][516]LogAudioMixer: Display: 1: FrontRight
+[2021.02.08-08.10.15:640][516]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.02.08-08.10.15:640][516]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.08-08.10.15:640][516]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.08-08.10.15:640][516]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.08-08.10.15:640][516]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.08-08.10.15:650][516]LogInit: FAudioDevice initialized.
+[2021.02.08-08.10.15:658][516]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.08-08.10.15:697][516]LogWorld: Bringing World /Game/LenhartChris/Maps/GameLevels/UEDPIE_0_Caves.Caves up for play (max tick rate 0) at 2021.02.08-03.10.15
+[2021.02.08-08.10.15:698][516]LogWorld: Bringing up level for play took: 0.039322
+[2021.02.08-08.10.15:698][516]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.02.08-08.10.15:711][516]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.02.08-08.10.15:715][516]PIE: Server logged in
+[2021.02.08-08.10.15:716][516]PIE: Play in editor total start time 0.187 seconds.
+[2021.02.08-08.10.26:745][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-08.10.26:745][635]LogWorld: BeginTearingDown for /Game/LenhartChris/Maps/GameLevels/UEDPIE_0_Caves
+[2021.02.08-08.10.26:745][635]LogWorld: UWorld::CleanupWorld for Caves, bSessionEnded=true, bCleanupResources=true
+[2021.02.08-08.10.26:764][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-08.10.26:780][635]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.08-08.10.26:785][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-08.10.26:815][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-08.10.26:849][635]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001459ADD9F80), frame # 157635
+[2021.02.08-08.10.26:849][635]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001454CAC3400), frame # 157635
+[2021.02.08-08.10.26:855][635]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.02.08-08.10.26:900][636]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.02.08-08.10.32:231][186]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.08-08.10.32:251][186]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.08-08.10.32:251][186]PIE: New page: PIE session: Caves (Feb 7, 2021, 10:10:32 PM)
+[2021.02.08-08.10.32:251][186]LogPlayLevel: Creating play world package: /Game/LenhartChris/Maps/GameLevels/UEDPIE_0_Caves
+[2021.02.08-08.10.32:315][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063724s)
+[2021.02.08-08.10.32:315][186]LogAIModule: Creating AISystem for world Caves
+[2021.02.08-08.10.32:315][186]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001454D256000), frame # 158186
+[2021.02.08-08.10.32:315][186]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000014548582C00), frame # 158186
+[2021.02.08-08.10.32:316][186]LogPlayLevel: PIE: World Init took: (0.001023s)
+[2021.02.08-08.10.32:316][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LenhartChris/Maps/GameLevels/Caves.Caves to /Game/LenhartChris/Maps/GameLevels/UEDPIE_0_Caves.Caves (0.064867s)
+[2021.02.08-08.10.32:343][186]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.02.08-08.10.32:348][186]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.08-08.10.32:348][186]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.08-08.10.32:348][186]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.08-08.10.32:348][186]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.08-08.10.32:348][186]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.08-08.10.32:348][186]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.08-08.10.32:348][186]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.08-08.10.32:348][186]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.08-08.10.32:349][186]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.08-08.10.32:349][186]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.08-08.10.32:352][186]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.08-08.10.32:352][186]LogAudioMixer: Display: 1: FrontRight
+[2021.02.08-08.10.32:361][186]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.02.08-08.10.32:361][186]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.08-08.10.32:361][186]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.08-08.10.32:361][186]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.08-08.10.32:361][186]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.08-08.10.32:371][186]LogInit: FAudioDevice initialized.
+[2021.02.08-08.10.32:380][186]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.08-08.10.32:417][186]LogWorld: Bringing World /Game/LenhartChris/Maps/GameLevels/UEDPIE_0_Caves.Caves up for play (max tick rate 0) at 2021.02.08-03.10.32
+[2021.02.08-08.10.32:418][186]LogWorld: Bringing up level for play took: 0.038043
+[2021.02.08-08.10.32:418][186]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.02.08-08.10.32:424][186]PIE: Server logged in
+[2021.02.08-08.10.32:425][186]PIE: Play in editor total start time 0.174 seconds.
+[2021.02.08-08.10.34:994][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-08.10.34:994][457]LogWorld: BeginTearingDown for /Game/LenhartChris/Maps/GameLevels/UEDPIE_0_Caves
+[2021.02.08-08.10.34:995][457]LogWorld: UWorld::CleanupWorld for Caves, bSessionEnded=true, bCleanupResources=true
+[2021.02.08-08.10.35:014][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-08.10.35:026][457]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.08-08.10.35:031][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-08.10.35:054][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-08.10.35:069][457]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000014548582C00), frame # 158457
+[2021.02.08-08.10.35:069][457]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001454D256000), frame # 158457
+[2021.02.08-08.10.35:073][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.02.08-08.10.35:116][458]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.02.08-08.10.37:320][674]LogEditorViewport: Clicking on Actor (LMB): FireTrap_C (FireTrap)
+[2021.02.08-08.10.51:288][226]LogEditorViewport: Clicking on Actor (LMB): FireTrap_C (FireTrap2)
+[2021.02.08-08.11.06:506][813]LogEditorViewport: Clicking on Actor (LMB): FireTrap_C (FireTrap3)
+[2021.02.08-08.11.17:359][961]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.08-08.11.17:380][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.08-08.11.17:380][961]PIE: New page: PIE session: Caves (Feb 7, 2021, 10:11:17 PM)
+[2021.02.08-08.11.17:404][961]LogPlayLevel: Creating play world package: /Game/LenhartChris/Maps/GameLevels/UEDPIE_0_Caves
+[2021.02.08-08.11.17:469][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065663s)
+[2021.02.08-08.11.17:470][961]LogAIModule: Creating AISystem for world Caves
+[2021.02.08-08.11.17:470][961]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001454D559C00), frame # 162961
+[2021.02.08-08.11.17:470][961]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000014556C7D6C0), frame # 162961
+[2021.02.08-08.11.17:471][961]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2021.02.08-08.11.17:471][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LenhartChris/Maps/GameLevels/Caves.Caves to /Game/LenhartChris/Maps/GameLevels/UEDPIE_0_Caves.Caves (0.066904s)
+[2021.02.08-08.11.17:499][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.02.08-08.11.17:505][961]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.08-08.11.17:505][961]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.08-08.11.17:505][961]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.08-08.11.17:505][961]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.08-08.11.17:505][961]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.08-08.11.17:505][961]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.08-08.11.17:505][961]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.08-08.11.17:505][961]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.08-08.11.17:506][961]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.08-08.11.17:506][961]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.08-08.11.17:508][961]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.08-08.11.17:508][961]LogAudioMixer: Display: 1: FrontRight
+[2021.02.08-08.11.17:517][961]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.02.08-08.11.17:517][961]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.08-08.11.17:517][961]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.08-08.11.17:517][961]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.08-08.11.17:518][961]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.08-08.11.17:528][961]LogInit: FAudioDevice initialized.
+[2021.02.08-08.11.17:535][961]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.08-08.11.17:573][961]LogWorld: Bringing World /Game/LenhartChris/Maps/GameLevels/UEDPIE_0_Caves.Caves up for play (max tick rate 0) at 2021.02.08-03.11.17
+[2021.02.08-08.11.17:574][961]LogWorld: Bringing up level for play took: 0.038412
+[2021.02.08-08.11.17:574][961]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.02.08-08.11.17:580][961]PIE: Server logged in
+[2021.02.08-08.11.17:581][961]PIE: Play in editor total start time 0.202 seconds.
+[2021.02.08-08.11.21:394][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-08.11.21:394][373]LogWorld: BeginTearingDown for /Game/LenhartChris/Maps/GameLevels/UEDPIE_0_Caves
+[2021.02.08-08.11.21:395][373]LogWorld: UWorld::CleanupWorld for Caves, bSessionEnded=true, bCleanupResources=true
+[2021.02.08-08.11.21:414][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-08.11.21:424][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.08-08.11.21:429][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-08.11.21:462][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-08.11.21:474][373]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000014556C7D6C0), frame # 163373
+[2021.02.08-08.11.21:474][373]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001454D559C00), frame # 163373
+[2021.02.08-08.11.21:477][373]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.02.08-08.11.21:521][374]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.02.08-08.11.25:443][803]LogEditorViewport: Clicking on Actor (LMB): FireTrap_C (FireTrap3)
+[2021.02.08-08.11.31:231][437]LogEditorViewport: Clicking on Actor (LMB): FireTrap_C (FireTrap4)
+[2021.02.08-08.11.45:184][920]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.08-08.11.45:205][920]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.08-08.11.45:205][920]PIE: New page: PIE session: Caves (Feb 7, 2021, 10:11:45 PM)
+[2021.02.08-08.11.45:243][920]LogPlayLevel: Creating play world package: /Game/LenhartChris/Maps/GameLevels/UEDPIE_0_Caves
+[2021.02.08-08.11.45:307][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063864s)
+[2021.02.08-08.11.45:308][920]LogAIModule: Creating AISystem for world Caves
+[2021.02.08-08.11.45:308][920]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000145488F2400), frame # 165920
+[2021.02.08-08.11.45:308][920]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000145536E5300), frame # 165920
+[2021.02.08-08.11.45:308][920]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2021.02.08-08.11.45:308][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LenhartChris/Maps/GameLevels/Caves.Caves to /Game/LenhartChris/Maps/GameLevels/UEDPIE_0_Caves.Caves (0.065100s)
+[2021.02.08-08.11.45:335][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.02.08-08.11.45:341][920]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.08-08.11.45:341][920]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.08-08.11.45:341][920]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.08-08.11.45:341][920]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.08-08.11.45:341][920]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.08-08.11.45:341][920]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.08-08.11.45:341][920]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.08-08.11.45:341][920]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.08-08.11.45:341][920]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.08-08.11.45:341][920]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.08-08.11.45:343][920]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.08-08.11.45:344][920]LogAudioMixer: Display: 1: FrontRight
+[2021.02.08-08.11.45:353][920]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.02.08-08.11.45:353][920]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.08-08.11.45:353][920]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.08-08.11.45:353][920]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.08-08.11.45:353][920]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.08-08.11.45:363][920]LogInit: FAudioDevice initialized.
+[2021.02.08-08.11.45:371][920]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.08-08.11.45:408][920]LogWorld: Bringing World /Game/LenhartChris/Maps/GameLevels/UEDPIE_0_Caves.Caves up for play (max tick rate 0) at 2021.02.08-03.11.45
+[2021.02.08-08.11.45:409][920]LogWorld: Bringing up level for play took: 0.038181
+[2021.02.08-08.11.45:410][920]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.02.08-08.11.45:416][920]PIE: Server logged in
+[2021.02.08-08.11.45:416][920]PIE: Play in editor total start time 0.212 seconds.
+[2021.02.08-08.11.49:464][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-08.11.49:464][348]LogWorld: BeginTearingDown for /Game/LenhartChris/Maps/GameLevels/UEDPIE_0_Caves
+[2021.02.08-08.11.49:465][348]LogWorld: UWorld::CleanupWorld for Caves, bSessionEnded=true, bCleanupResources=true
+[2021.02.08-08.11.49:484][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-08.11.49:492][348]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.08-08.11.49:497][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-08.11.49:519][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-08.11.49:536][348]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000145536E5300), frame # 166348
+[2021.02.08-08.11.49:536][348]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000145488F2400), frame # 166348
+[2021.02.08-08.11.49:540][348]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.02.08-08.11.49:584][349]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.02.08-08.11.53:218][670]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.02.08-08.12.01:506][337]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.02.08-08.12.01:578][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.02.08-08.12.01:947][355]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Saved/FirstPersonCharacter7FB8FE3846777BD097E1139586DF72F6.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.02.08-08.12.01:964][355]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.02.08-08.12.01:964][355]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.02.08-08.12.16:962][829]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2021.02.08-08.12.20:627][165]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight4)
+[2021.02.08-08.12.23:713][456]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight2)
+[2021.02.08-08.12.24:957][594]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight)
+[2021.02.08-08.12.33:234][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x5WallWPillars3)
+[2021.02.08-08.12.38:498][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WoodPlatform3)
+[2021.02.08-08.12.55:087][568]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2021.02.08-08.12.55:816][568]LogSlate: Window 'Save Content' being destroyed
+[2021.02.08-08.12.56:111][568]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.02.08-08.12.56:275][568]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Saved/TestingMap8026616B46E4FC63997D5F9F9FE379DF.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Maps/DemoStuff/TestingMap.umap'
+[2021.02.08-08.12.56:415][568]LogFileHelpers: Saving map 'TestingMap' took 0.574
+[2021.02.08-08.12.56:551][568]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Saved/TestingMap_BuiltDataB7FA6F4A447558F24700F78550F3C33F.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Maps/DemoStuff/TestingMap_BuiltData.uasset'
+[2021.02.08-08.12.56:687][568]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Saved/TestingMap_BuiltData7815E7FC42FAF98F4C0DA696D0D84B2D.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Maps/DemoStuff/TestingMap_BuiltData.uasset'
+[2021.02.08-08.12.56:723][568]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.02.08-08.12.56:988][568]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Saved/Caves9550396443348A99E704439329DAF069.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Maps/GameLevels/Caves.umap'
+[2021.02.08-08.12.57:028][568]LogFileHelpers: Saving map 'Caves' took 0.339
+[2021.02.08-08.12.57:802][568]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Saved/Caves_BuiltDataBF03322D490D1CBC6C2F759E0ED7497D.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Maps/GameLevels/Caves_BuiltData.uasset'
+[2021.02.08-08.12.57:845][568]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.08-08.12.57:845][568]LogContentValidation: Display: Validating World /Game/LenhartChris/Maps/DemoStuff/TestingMap.TestingMap
+[2021.02.08-08.12.57:845][568]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/LenhartChris/Maps/DemoStuff/TestingMap_BuiltData.TestingMap_BuiltData
+[2021.02.08-08.12.57:845][568]LogContentValidation: Display: Validating World /Game/LenhartChris/Maps/GameLevels/Caves.Caves
+[2021.02.08-08.12.57:845][568]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/LenhartChris/Maps/GameLevels/Caves_BuiltData.Caves_BuiltData
+[2021.02.08-08.13.06:195][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigCeiling)
+[2021.02.08-08.13.22:439][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x4WallDoubleSidedPillar9)
+[2021.02.08-08.13.46:578][457]LogActorFactory: Actor Factory created SM_Crypt_Pillar
+[2021.02.08-08.13.47:727][545]LogActorFactory: Actor Factory created SM_Crypt_Pillar
+[2021.02.08-08.14.19:238][702]Cmd: EDIT COPY
+[2021.02.08-08.14.19:412][722]Cmd: EDIT PASTE
+[2021.02.08-08.14.59:386][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Pillar2)
+[2021.02.08-08.15.06:146][369]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Pillar3)
+[2021.02.08-08.15.08:533][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Pillar2)
+[2021.02.08-08.15.24:369][377]Cmd: EDIT COPY
+[2021.02.08-08.15.24:538][395]Cmd: EDIT PASTE
+[2021.02.08-08.15.44:259][333]Cmd: EDIT COPY
+[2021.02.08-08.15.44:440][354]Cmd: EDIT PASTE
+[2021.02.08-08.15.53:299][246]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Pillar4)
+[2021.02.08-08.15.59:227][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Pillar5)
+[2021.02.08-08.16.12:146][311]Cmd: EDIT COPY
+[2021.02.08-08.16.12:331][331]Cmd: EDIT PASTE
+[2021.02.08-08.16.26:185][841]Cmd: EDIT COPY
+[2021.02.08-08.16.26:352][859]Cmd: EDIT PASTE
+[2021.02.08-08.16.44:829][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Pillar6)
+[2021.02.08-08.16.49:561][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Pillar7)
+[2021.02.08-08.16.54:179][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Pillar6)
+[2021.02.08-08.17.01:031][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.02.08-08.17.01:847][447]LogSlate: Window 'Save Content' being destroyed
+[2021.02.08-08.17.01:897][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.02.08-08.17.02:144][447]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Saved/Caves203207074A1BC654D87A83A85D2B56D3.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Maps/GameLevels/Caves.umap'
+[2021.02.08-08.17.02:182][447]LogFileHelpers: Saving map 'Caves' took 0.312
+[2021.02.08-08.17.02:945][447]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Saved/Caves_BuiltDataD829EDA14F06B4225B7FBAA2219FF0EB.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Maps/GameLevels/Caves_BuiltData.uasset'
+[2021.02.08-08.17.02:984][447]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.08-08.17.02:984][447]LogContentValidation: Display: Validating World /Game/LenhartChris/Maps/GameLevels/Caves.Caves
+[2021.02.08-08.17.02:984][447]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/LenhartChris/Maps/GameLevels/Caves_BuiltData.Caves_BuiltData
+[2021.02.08-08.17.12:889][433]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.08-08.17.12:909][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.08-08.17.12:909][433]PIE: New page: PIE session: Caves (Feb 7, 2021, 10:17:12 PM)
+[2021.02.08-08.17.12:944][433]LogPlayLevel: Creating play world package: /Game/LenhartChris/Maps/GameLevels/UEDPIE_0_Caves
+[2021.02.08-08.17.13:010][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066082s)
+[2021.02.08-08.17.13:011][433]LogAIModule: Creating AISystem for world Caves
+[2021.02.08-08.17.13:011][433]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001455A7E1A00), frame # 198433
+[2021.02.08-08.17.13:011][433]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000145C57FFC40), frame # 198433
+[2021.02.08-08.17.13:011][433]LogPlayLevel: PIE: World Init took: (0.001124s)
+[2021.02.08-08.17.13:011][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LenhartChris/Maps/GameLevels/Caves.Caves to /Game/LenhartChris/Maps/GameLevels/UEDPIE_0_Caves.Caves (0.067368s)
+[2021.02.08-08.17.13:039][433]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.02.08-08.17.13:042][433]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.08-08.17.13:042][433]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.08-08.17.13:042][433]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.08-08.17.13:042][433]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.08-08.17.13:042][433]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.08-08.17.13:042][433]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.08-08.17.13:042][433]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.08-08.17.13:042][433]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.08-08.17.13:042][433]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.08-08.17.13:042][433]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.08-08.17.13:044][433]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.08-08.17.13:044][433]LogAudioMixer: Display: 1: FrontRight
+[2021.02.08-08.17.13:055][433]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.02.08-08.17.13:055][433]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.08-08.17.13:055][433]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.08-08.17.13:055][433]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.08-08.17.13:056][433]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.08-08.17.13:066][433]LogInit: FAudioDevice initialized.
+[2021.02.08-08.17.13:077][433]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.08-08.17.13:116][433]LogWorld: Bringing World /Game/LenhartChris/Maps/GameLevels/UEDPIE_0_Caves.Caves up for play (max tick rate 0) at 2021.02.08-03.17.13
+[2021.02.08-08.17.13:117][433]LogWorld: Bringing up level for play took: 0.040102
+[2021.02.08-08.17.13:117][433]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.02.08-08.17.13:124][433]PIE: Server logged in
+[2021.02.08-08.17.13:125][433]PIE: Play in editor total start time 0.216 seconds.
+[2021.02.08-08.17.24:524][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-08.17.24:524][669]LogWorld: BeginTearingDown for /Game/LenhartChris/Maps/GameLevels/UEDPIE_0_Caves
+[2021.02.08-08.17.24:524][669]LogWorld: UWorld::CleanupWorld for Caves, bSessionEnded=true, bCleanupResources=true
+[2021.02.08-08.17.24:545][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-08.17.24:555][669]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.08-08.17.24:560][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-08.17.24:584][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-08.17.24:602][669]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000145C57FFC40), frame # 199669
+[2021.02.08-08.17.24:602][669]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001455A7E1A00), frame # 199669
+[2021.02.08-08.17.24:607][669]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.02.08-08.17.24:649][670]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.02.08-08.17.27:741][974]LogEditorViewport: Clicking on Actor (LMB): FireTrap_C (FireTrap2)
+[2021.02.08-08.17.30:167][251]LogEditorViewport: Clicking on Actor (LMB): FireTrap_C (FireTrap)
+[2021.02.08-08.17.31:356][389]LogEditorViewport: Clicking on Actor (LMB): FireTrap_C (FireTrap2)
+[2021.02.08-08.17.35:490][873]LogEditorViewport: Clicking on Actor (LMB): FireTrap_C (FireTrap)
+[2021.02.08-08.17.40:608][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.02.08-08.17.41:540][446]LogSlate: Window 'Save Content' being destroyed
+[2021.02.08-08.17.41:599][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.02.08-08.17.41:839][446]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Saved/Caves98789D4749F8B3D96E14FCAD62DA1229.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Maps/GameLevels/Caves.umap'
+[2021.02.08-08.17.41:876][446]LogFileHelpers: Saving map 'Caves' took 0.304
+[2021.02.08-08.17.42:622][446]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Saved/Caves_BuiltData326480614D4A7ADC85EFD59AE0A98C0B.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/PuzzelGame/PuzzleRunner/Content/LenhartChris/Maps/GameLevels/Caves_BuiltData.uasset'
+[2021.02.08-08.17.42:651][446]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.08-08.17.42:651][446]LogContentValidation: Display: Validating World /Game/LenhartChris/Maps/GameLevels/Caves.Caves
+[2021.02.08-08.17.42:651][446]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/LenhartChris/Maps/GameLevels/Caves_BuiltData.Caves_BuiltData
+[2021.02.08-08.17.43:047][467]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.08-08.17.43:068][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.08-08.17.43:068][467]PIE: New page: PIE session: Caves (Feb 7, 2021, 10:17:43 PM)
+[2021.02.08-08.17.43:068][467]LogPlayLevel: Creating play world package: /Game/LenhartChris/Maps/GameLevels/UEDPIE_0_Caves
+[2021.02.08-08.17.43:131][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063108s)
+[2021.02.08-08.17.43:132][467]LogAIModule: Creating AISystem for world Caves
+[2021.02.08-08.17.43:132][467]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000145477F4200), frame # 201467
+[2021.02.08-08.17.43:132][467]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000014414A0BD80), frame # 201467
+[2021.02.08-08.17.43:132][467]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2021.02.08-08.17.43:132][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LenhartChris/Maps/GameLevels/Caves.Caves to /Game/LenhartChris/Maps/GameLevels/UEDPIE_0_Caves.Caves (0.064340s)
+[2021.02.08-08.17.43:159][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.02.08-08.17.43:165][467]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.08-08.17.43:165][467]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.08-08.17.43:165][467]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.08-08.17.43:165][467]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.08-08.17.43:165][467]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.08-08.17.43:165][467]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.08-08.17.43:165][467]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.08-08.17.43:165][467]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.08-08.17.43:166][467]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.08-08.17.43:166][467]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.08-08.17.43:168][467]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.08-08.17.43:168][467]LogAudioMixer: Display: 1: FrontRight
+[2021.02.08-08.17.43:177][467]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.02.08-08.17.43:178][467]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.08-08.17.43:178][467]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.08-08.17.43:178][467]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.08-08.17.43:178][467]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.08-08.17.43:188][467]LogInit: FAudioDevice initialized.
+[2021.02.08-08.17.43:194][467]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.08-08.17.43:232][467]LogWorld: Bringing World /Game/LenhartChris/Maps/GameLevels/UEDPIE_0_Caves.Caves up for play (max tick rate 0) at 2021.02.08-03.17.43
+[2021.02.08-08.17.43:232][467]LogWorld: Bringing up level for play took: 0.038193
+[2021.02.08-08.17.43:233][467]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.02.08-08.17.43:239][467]PIE: Server logged in
+[2021.02.08-08.17.43:240][467]PIE: Play in editor total start time 0.173 seconds.
+[2021.02.08-08.18.00:834][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-08.18.00:834][476]LogWorld: BeginTearingDown for /Game/LenhartChris/Maps/GameLevels/UEDPIE_0_Caves
+[2021.02.08-08.18.00:835][476]LogWorld: UWorld::CleanupWorld for Caves, bSessionEnded=true, bCleanupResources=true
+[2021.02.08-08.18.00:854][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-08.18.00:861][476]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.08-08.18.00:866][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-08.18.00:889][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-08.18.00:907][476]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000014414A0BD80), frame # 203476
+[2021.02.08-08.18.00:907][476]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000145477F4200), frame # 203476
+[2021.02.08-08.18.00:913][476]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.02.08-08.18.00:957][477]LogPlayLevel: Display: Destroying online subsystem :Context_35
